@@ -1,0 +1,2830 @@
+,Crop_Year,Season,Crop,Area,Production
+0,1997,Autumn     ,Arhar/Tur,25621,6487
+1,1997,Autumn     ,Groundnut,37462,34433
+2,1997,Autumn     ,Jute,92010,123210
+3,1997,Autumn     ,Maize,51370,83026
+4,1997,Autumn     ,Paddy,827162,812852
+5,1997,Autumn     ,Ragi,54594,42215
+6,1997,Autumn     ,Rice,1589160,1906333
+7,1997,Autumn     ,Sesamum,7286,1626
+8,1997,Autumn     ,Urad,32111,8536
+9,1997,Kharif     ,Arhar/Tur,3019062,1608325
+10,1997,Kharif     ,Bajra,9178210,7029733
+11,1997,Kharif     ,Banana,86449,2762324
+12,1997,Kharif     ,Black pepper,3825,924
+13,1997,Kharif     ,Castor seed,219072,116008
+14,1997,Kharif     ,Coconut ,15,40
+15,1997,Kharif     ,Cotton(lint),2097283,3108234
+16,1997,Kharif     ,Dry chillies,323079,396706
+17,1997,Kharif     ,Dry ginger,11544,50807
+18,1997,Kharif     ,Gram,776100,340900
+19,1997,Kharif     ,Groundnut,4884049,4443849
+20,1997,Kharif     ,Horse-gram,288506,132460
+21,1997,Kharif     ,Jowar,4762204,4844803
+22,1997,Kharif     ,Jute,887690,9814775
+23,1997,Kharif     ,Kapas,967,429
+24,1997,Kharif     ,Korra,29900,19100
+25,1997,Kharif     ,Linseed,50,22
+26,1997,Kharif     ,Maize,4561352,7473616
+27,1997,Kharif     ,Mesta,125033,830152
+28,1997,Kharif     ,Moong(Green Gram),1138479,412349
+29,1997,Kharif     ,Moth,48716,24216
+30,1997,Kharif     ,Niger seed,384,243
+31,1997,Kharif     ,Oilseeds total,916298,563081
+32,1997,Kharif     ,Onion,76634,622828
+33,1997,Kharif     ,Other Kharif pulses,94654,72625
+34,1997,Kharif     ,Paddy,3066430,5039539
+35,1997,Kharif     ,Peas & beans (Pulses),233,272
+36,1997,Kharif     ,Pulses total,24342,8439
+37,1997,Kharif     ,Ragi,1137721,1428682
+38,1997,Kharif     ,Rapeseed &Mustard,374,440
+39,1997,Kharif     ,Rice,14208199,32723519
+40,1997,Kharif     ,Samai,29500,12700
+41,1997,Kharif     ,Sesamum,682979,166065
+42,1997,Kharif     ,Small millets,664993,243628
+43,1997,Kharif     ,Soyabean,4949711,5475933
+44,1997,Kharif     ,Sugarcane,436437,16932950
+45,1997,Kharif     ,Sunflower,277354,132727
+46,1997,Kharif     ,Tobacco,207892,210969
+47,1997,Kharif     ,Total foodgrain,15332124,30740079
+48,1997,Kharif     ,Urad,1134405,495830
+49,1997,Rabi       ,Arhar/Tur,3500,1400
+50,1997,Rabi       ,Barley,766599,1581811
+51,1997,Rabi       ,Castor seed,30,15
+52,1997,Rabi       ,Dry chillies,59165,109795
+53,1997,Rabi       ,Gram,3803184,3195902
+54,1997,Rabi       ,Groundnut,514308,605078
+55,1997,Rabi       ,Horse-gram,253673,119772
+56,1997,Rabi       ,Jowar,5549972,2437473
+57,1997,Rabi       ,Khesari,25261,28460
+58,1997,Rabi       ,Korra,100,100
+59,1997,Rabi       ,Linseed,411716,154992
+60,1997,Rabi       ,Maize,366794,1000334
+61,1997,Rabi       ,Masoor,544987,391681
+62,1997,Rabi       ,Moong(Green Gram),140269,54910
+63,1997,Rabi       ,Oilseeds total,50808100,38657300
+64,1997,Rabi       ,Other  Rabi pulses,247790,151786
+65,1997,Rabi       ,Paddy,53889,163930
+66,1997,Rabi       ,Peas & beans (Pulses),425007,494378
+67,1997,Rabi       ,Pulses total,3217,2464
+68,1997,Rabi       ,Ragi,41704,55596
+69,1997,Rabi       ,Rapeseed &Mustard,5032567,3544122
+70,1997,Rabi       ,Rice,1178206,3420352
+71,1997,Rabi       ,Safflower,423,266
+72,1997,Rabi       ,Sesamum,83200,8800
+73,1997,Rabi       ,Small millets,3000,200
+74,1997,Rabi       ,Sugarcane,681,15806
+75,1997,Rabi       ,Sunflower,155713,99444
+76,1997,Rabi       ,Tobacco,21665,15672
+77,1997,Rabi       ,Urad,429694,201253
+78,1997,Rabi       ,Varagu,2500,1600
+79,1997,Rabi       ,Wheat,25640826,63831633
+80,1997,Summer     ,Arhar/Tur,86559,16414
+81,1997,Summer     ,Bajra,180620,381062
+82,1997,Summer     ,Groundnut,139629,211015
+83,1997,Summer     ,Horse-gram,952,253
+84,1997,Summer     ,Jowar,6137,15135
+85,1997,Summer     ,Maize,171140,355612
+86,1997,Summer     ,Moong(Green Gram),96266,36965
+87,1997,Summer     ,Paddy,503808,1597150
+88,1997,Summer     ,Ragi,14124,25464
+89,1997,Summer     ,Rice,1774289,4782163
+90,1997,Summer     ,Sesamum,16106,4065
+91,1997,Summer     ,Urad,72617,33690
+92,1997,Whole Year ,Arecanut,260686,308584
+93,1997,Whole Year ,Arhar/Tur,73983,37701
+94,1997,Whole Year ,Bajra,168594,211970
+95,1997,Whole Year ,Banana,129853,5815359
+96,1997,Whole Year ,Barley,6116,5034
+97,1997,Whole Year ,Black pepper,177301,56280
+98,1997,Whole Year ,Cardamom,29168,1701
+99,1997,Whole Year ,Cashewnut,178834,93512
+100,1997,Whole Year ,Castor seed,363471,668476
+101,1997,Whole Year ,Coconut ,1064214,6344102
+102,1997,Whole Year ,Coriander,57930,13169
+103,1997,Whole Year ,Cotton(lint),3132970,7335290
+104,1997,Whole Year ,Dry chillies,154286,112263
+105,1997,Whole Year ,Dry ginger,575,18220
+106,1997,Whole Year ,Garlic,28730,146910
+107,1997,Whole Year ,Gram,6239,4090
+108,1997,Whole Year ,Groundnut,897248,1446682
+109,1997,Whole Year ,Jowar,381370,378170
+110,1997,Whole Year ,Linseed,16486,4210
+111,1997,Whole Year ,Maize,493313,884330
+112,1997,Whole Year ,Moong(Green Gram),156695,70160
+113,1997,Whole Year ,Niger seed,16426,8598
+114,1997,Whole Year ,Oilseeds total,26979,25003
+115,1997,Whole Year ,Onion,58143,929015
+116,1997,Whole Year ,Potato,941622,14095119
+117,1997,Whole Year ,Pulses total,20692769,14399976
+118,1997,Whole Year ,Ragi,160407,266664
+119,1997,Whole Year ,Rapeseed &Mustard,327987,251160
+120,1997,Whole Year ,Rice,3001258,8046603
+121,1997,Whole Year ,Safflower,10800,3000
+122,1997,Whole Year ,Sannhamp,4410,10448
+123,1997,Whole Year ,Sesamum,439278,274200
+124,1997,Whole Year ,Small millets,33776,4492
+125,1997,Whole Year ,Sugarcane,3027048,483136287
+126,1997,Whole Year ,Sunflower,18208,16011
+127,1997,Whole Year ,Sweet potato,23938,174563
+128,1997,Whole Year ,Tapioca,243461,6770940
+129,1997,Whole Year ,Tobacco,119301,195776
+130,1997,Whole Year ,Total foodgrain,3642130,8103700
+131,1997,Whole Year ,Turmeric,49377,175614
+132,1997,Whole Year ,Urad,218236,101820
+133,1997,Winter     ,Arhar/Tur,116553,23305
+134,1997,Winter     ,Groundnut,8157,8905
+135,1997,Winter     ,Horse-gram,114779,32809
+136,1997,Winter     ,Maize,144,136
+137,1997,Winter     ,Paddy,3434388,4938032
+138,1997,Winter     ,Ragi,37191,19693
+139,1997,Winter     ,Rice,8955355,14969534
+140,1997,Winter     ,Sesamum,48551,8316
+141,1997,Winter     ,Sugarcane,18682,1144012
+142,1997,Winter     ,Urad,118618,38610
+143,1998,Autumn     ,Banana,1280,16460
+144,1998,Autumn     ,Cotton(lint),30,20
+145,1998,Autumn     ,Dry chillies,2000,1200
+146,1998,Autumn     ,Dry ginger,360,590
+147,1998,Autumn     ,Groundnut,32001,27051
+148,1998,Autumn     ,Jute,5323,41613
+149,1998,Autumn     ,Maize,53190,76313
+150,1998,Autumn     ,Moong(Green Gram),21845,5837
+151,1998,Autumn     ,Onion,60,120
+152,1998,Autumn     ,Peas & beans (Pulses),850,787
+153,1998,Autumn     ,Potato,320,1670
+154,1998,Autumn     ,Ragi,41039,28443
+155,1998,Autumn     ,Rice,2048299,2198797
+156,1998,Autumn     ,Sesamum,8164,2570
+157,1998,Autumn     ,Soyabean,270,320
+158,1998,Autumn     ,Sugarcane,380,12410
+159,1998,Autumn     ,Sweet potato,50,180
+160,1998,Autumn     ,Tapioca,30,130
+161,1998,Autumn     ,Turmeric,100,70
+162,1998,Autumn     ,Urad,35494,9744
+163,1998,Kharif     ,Arecanut,66,23
+164,1998,Kharif     ,Arhar/Tur,3189075,2554878
+165,1998,Kharif     ,Bajra,9139698,6629904
+166,1998,Kharif     ,Black pepper,12,7
+167,1998,Kharif     ,Blackgram,25116,18601
+168,1998,Kharif     ,Castor seed,631676,824456
+169,1998,Kharif     ,Coconut ,175,64750
+170,1998,Kharif     ,Coriander,2,1
+171,1998,Kharif     ,Cotton(lint),9330909,11173461
+172,1998,Kharif     ,Dry chillies,161408,395023
+173,1998,Kharif     ,Dry ginger,21297,134604
+174,1998,Kharif     ,Gram,100,100
+175,1998,Kharif     ,Groundnut,6653670,8004452
+176,1998,Kharif     ,Horse-gram,334664,161751
+177,1998,Kharif     ,Jowar,5167605,5538582
+178,1998,Kharif     ,Jute,877339,8840241
+179,1998,Kharif     ,Korra,40100,28500
+180,1998,Kharif     ,Linseed,51,23
+181,1998,Kharif     ,Maize,5003120,8455539
+182,1998,Kharif     ,Mesta,110748,803250
+183,1998,Kharif     ,Moong(Green Gram),2306346,861553
+184,1998,Kharif     ,Moth,921733,124833
+185,1998,Kharif     ,Niger seed,127482,35857
+186,1998,Kharif     ,Oilseeds total,80,40
+187,1998,Kharif     ,Onion,79947,362482
+188,1998,Kharif     ,Other Cereals & Millets,134700,78014
+189,1998,Kharif     ,Other Kharif pulses,478167,199466
+190,1998,Kharif     ,Peas & beans (Pulses),1730,15872
+191,1998,Kharif     ,Potato,39515,442464
+192,1998,Kharif     ,Pulses total,1017960,506504
+193,1998,Kharif     ,Ragi,1455308,2316966
+194,1998,Kharif     ,Rapeseed &Mustard,6673,1790
+195,1998,Kharif     ,Rice,20363660,44949595
+196,1998,Kharif     ,Samai,28400,14300
+197,1998,Kharif     ,Sannhamp,3333,2596
+198,1998,Kharif     ,Sesamum,1277424,408884
+199,1998,Kharif     ,Small millets,830693,326429
+200,1998,Kharif     ,Soyabean,6399096,7081431
+201,1998,Kharif     ,Sugarcane,532510,47383469
+202,1998,Kharif     ,Sunflower,859986,383138
+203,1998,Kharif     ,Tapioca,1135,21655
+204,1998,Kharif     ,Total foodgrain,4506716,1108801
+205,1998,Kharif     ,Urad,1714293,831712
+206,1998,Kharif     ,other oilseeds,5340,6338
+207,1998,Rabi       ,Arhar/Tur,3100,1957
+208,1998,Rabi       ,Bajra,7751,5136
+209,1998,Rabi       ,Banana,660,8490
+210,1998,Rabi       ,Barley,735384,1476976
+211,1998,Rabi       ,Castor seed,90,419
+212,1998,Rabi       ,Coriander,395,128
+213,1998,Rabi       ,Cotton(lint),10,10
+214,1998,Rabi       ,Dry chillies,64440,132340
+215,1998,Rabi       ,Gram,8235532,6722800
+216,1998,Rabi       ,Groundnut,576656,850395
+217,1998,Rabi       ,Horse-gram,231737,92284
+218,1998,Rabi       ,Jowar,4705362,3036550
+219,1998,Rabi       ,Khesari,23300,20850
+220,1998,Rabi       ,Korra,100,100
+221,1998,Rabi       ,Linseed,531524,200320
+222,1998,Rabi       ,Maize,381985,1093113
+223,1998,Rabi       ,Masoor,647759,485062
+224,1998,Rabi       ,Moong(Green Gram),155786,63120
+225,1998,Rabi       ,Onion,8962,91227
+226,1998,Rabi       ,Other  Rabi pulses,829405,605529
+227,1998,Rabi       ,Other Cereals & Millets,20500,23400
+228,1998,Rabi       ,Peas & beans (Pulses),526769,565375
+229,1998,Rabi       ,Potato,8254,115160
+230,1998,Rabi       ,Pulses total,3262,2488
+231,1998,Rabi       ,Ragi,49233,76501
+232,1998,Rabi       ,Rapeseed &Mustard,5271031,4983474
+233,1998,Rabi       ,Rice,1576346,5024960
+234,1998,Rabi       ,Safflower,419491,235417
+235,1998,Rabi       ,Sesamum,122500,32999
+236,1998,Rabi       ,Small millets,3535,2744
+237,1998,Rabi       ,Sugarcane,10,330
+238,1998,Rabi       ,Sunflower,792330,356933
+239,1998,Rabi       ,Sweet potato,20,70
+240,1998,Rabi       ,Tobacco,966,2421
+241,1998,Rabi       ,Urad,370412,240887
+242,1998,Rabi       ,Varagu,1700,1500
+243,1998,Rabi       ,Wheat,26623885,69694075
+244,1998,Rabi       ,other oilseeds,2080,1393
+245,1998,Summer     ,Bajra,182846,429098
+246,1998,Summer     ,Banana,20,260
+247,1998,Summer     ,Cotton(lint),453,372
+248,1998,Summer     ,Dry chillies,1230,740
+249,1998,Summer     ,Dry ginger,10,20
+250,1998,Summer     ,Groundnut,308081,442312
+251,1998,Summer     ,Horse-gram,528,795
+252,1998,Summer     ,Jowar,8897,23144
+253,1998,Summer     ,Jute,10,20
+254,1998,Summer     ,Maize,184207,418019
+255,1998,Summer     ,Moong(Green Gram),183499,66759
+256,1998,Summer     ,Onion,4837,55429
+257,1998,Summer     ,Peas & beans (Pulses),2293,14067
+258,1998,Summer     ,Potato,1137,19387
+259,1998,Summer     ,Ragi,11534,25318
+260,1998,Summer     ,Rice,2470570,7328354
+261,1998,Summer     ,Sesamum,7864,2754
+262,1998,Summer     ,Sugarcane,140,4570
+263,1998,Summer     ,Sunflower,58356,36211
+264,1998,Summer     ,Urad,70899,33458
+265,1998,Summer     ,Wheat,3868,4441
+266,1998,Whole Year ,Arecanut,263967,797788
+267,1998,Whole Year ,Banana,188405,6208799
+268,1998,Whole Year ,Black pepper,189404,79372
+269,1998,Whole Year ,Cardamom,68739,8572
+270,1998,Whole Year ,Cashewnut,169743,66498
+271,1998,Whole Year ,Castor seed,42634,14626
+272,1998,Whole Year ,Coconut ,1237469,5283795704
+273,1998,Whole Year ,Coriander,282017,199093
+274,1998,Whole Year ,Cotton(lint),57,30
+275,1998,Whole Year ,Dry chillies,379383,328814
+276,1998,Whole Year ,Dry ginger,18357,74886
+277,1998,Whole Year ,Garlic,49016,262560
+278,1998,Whole Year ,Groundnut,30157,34994
+279,1998,Whole Year ,Kapas,555,429
+280,1998,Whole Year ,Oilseeds total,2930208,3870962
+281,1998,Whole Year ,Onion,162902,2402182
+282,1998,Whole Year ,Potato,1027759,19365921
+283,1998,Whole Year ,Pulses total,844200,610895
+284,1998,Whole Year ,Rapeseed &Mustard,555,136
+285,1998,Whole Year ,Sannhamp,17277,20885
+286,1998,Whole Year ,Sesamum,100425,85448
+287,1998,Whole Year ,Sugarcane,3112758,210811993
+288,1998,Whole Year ,Sweet potato,27328,179188
+289,1998,Whole Year ,Tapioca,197881,5574601
+290,1998,Whole Year ,Tobacco,341306,577241
+291,1998,Whole Year ,Total foodgrain,78068,92247
+292,1998,Whole Year ,Turmeric,59807,202241
+293,1998,Winter     ,Banana,954,12370
+294,1998,Winter     ,Coriander,5,4
+295,1998,Winter     ,Cotton(lint),30,10
+296,1998,Winter     ,Dry chillies,2360,1420
+297,1998,Winter     ,Dry ginger,220,360
+298,1998,Winter     ,Gram,187,150
+299,1998,Winter     ,Groundnut,5987,5184
+300,1998,Winter     ,Horse-gram,96407,24195
+301,1998,Winter     ,Maize,417,604
+302,1998,Winter     ,Moong(Green Gram),106933,18608
+303,1998,Winter     ,Onion,20,40
+304,1998,Winter     ,Peas & beans (Pulses),630,320
+305,1998,Winter     ,Potato,9055,98374
+306,1998,Winter     ,Ragi,39112,24271
+307,1998,Winter     ,Rapeseed &Mustard,20041,2846
+308,1998,Winter     ,Rice,12258077,19259513
+309,1998,Winter     ,Sesamum,38329,6833
+310,1998,Winter     ,Soyabean,80,100
+311,1998,Winter     ,Sugarcane,24024,1597409
+312,1998,Winter     ,Sunflower,5,3
+313,1998,Winter     ,Sweet potato,10,30
+314,1998,Winter     ,Turmeric,40,20
+315,1998,Winter     ,Urad,100561,28577
+316,1998,Winter     ,Wheat,537,920
+317,1999,Autumn     ,Dry chillies,16849,13874
+318,1999,Autumn     ,Rice,1902900,2338002
+319,1999,Autumn     ,Sannhamp,1448,7810
+320,1999,Autumn     ,Sesamum,891,406
+321,1999,Kharif     ,Arhar/Tur,2964028,2505467
+322,1999,Kharif     ,Bajra,8701529,5406371.7
+323,1999,Kharif     ,Banana,22,440
+324,1999,Kharif     ,Barley,34,9.8
+325,1999,Kharif     ,Castor seed,779273,765381
+326,1999,Kharif     ,Coconut ,175,700
+327,1999,Kharif     ,Cond-spcs other,892,675.4
+328,1999,Kharif     ,Cotton(lint),8717476,10642915
+329,1999,Kharif     ,Dry chillies,44090,38300
+330,1999,Kharif     ,Dry ginger,43982,209698
+331,1999,Kharif     ,Groundnut,6229902,4487888.1
+332,1999,Kharif     ,Horse-gram,309698,139829
+333,1999,Kharif     ,Jowar,5000885,5082274.2
+334,1999,Kharif     ,Jute,854538,9470088
+335,1999,Kharif     ,Jute & mesta,2365,17955
+336,1999,Kharif     ,Korra,4517,2030
+337,1999,Kharif     ,Maize,5638162,9575934
+338,1999,Kharif     ,Masoor,428278,153393
+339,1999,Kharif     ,Mesta,77350,433271
+340,1999,Kharif     ,Moong(Green Gram),2250826,845174
+341,1999,Kharif     ,Moth,797594,33229
+342,1999,Kharif     ,Niger seed,384408,108263
+343,1999,Kharif     ,Other Cereals & Millets,11400,3300
+344,1999,Kharif     ,Other Kharif pulses,1130963,330198
+345,1999,Kharif     ,Peas & beans (Pulses),8576,13995
+346,1999,Kharif     ,Ragi,1513440,2067300.2
+347,1999,Kharif     ,Rice,21618040,49367858.6
+348,1999,Kharif     ,Sannhamp,29,17
+349,1999,Kharif     ,Sesamum,1435119,436075.6
+350,1999,Kharif     ,Small millets,309920,171990
+351,1999,Kharif     ,Soyabean,5959717,6819977
+352,1999,Kharif     ,Sunflower,500141,256829
+353,1999,Kharif     ,Sweet potato,34100,292450
+354,1999,Kharif     ,Turmeric,28120,61180
+355,1999,Kharif     ,Urad,2415196,1029884
+356,1999,Kharif     ,Varagu,19937,22576
+357,1999,Rabi       ,Bajra,10039,6886
+358,1999,Rabi       ,Barley,661382,1384450.8
+359,1999,Rabi       ,Castor seed,9720,4800
+360,1999,Rabi       ,Cond-spcs other,1875,1585
+361,1999,Rabi       ,Coriander,25170,10330
+362,1999,Rabi       ,Dry chillies,103713,88050
+363,1999,Rabi       ,Garlic,17610,52280
+364,1999,Rabi       ,Gram,6028727,4979389.5
+365,1999,Rabi       ,Groundnut,613898,877872
+366,1999,Rabi       ,Horse-gram,589687,219434
+367,1999,Rabi       ,Jowar,5324266,3692471
+368,1999,Rabi       ,Khesari,184055,181971
+369,1999,Rabi       ,Linseed,532235,213357.6
+370,1999,Rabi       ,Maize,438157,1261796
+371,1999,Rabi       ,Masoor,303655,275017
+372,1999,Rabi       ,Moong(Green Gram),771928,313522
+373,1999,Rabi       ,Niger seed,19010,7020
+374,1999,Rabi       ,Other  Rabi pulses,1135582,598082
+375,1999,Rabi       ,Peas & beans (Pulses),49361,54172
+376,1999,Rabi       ,Ragi,71142,83975
+377,1999,Rabi       ,Rapeseed &Mustard,5624473,5314797.1
+378,1999,Rabi       ,Rice,1222661,3703813
+379,1999,Rabi       ,Safflower,438801,259508
+380,1999,Rabi       ,Samai,58471,48503
+381,1999,Rabi       ,Sannhamp,107,298
+382,1999,Rabi       ,Sesamum,135092,39722
+383,1999,Rabi       ,Small millets,15905,6141
+384,1999,Rabi       ,Sunflower,508069,256594
+385,1999,Rabi       ,Sweet potato,9780,68770
+386,1999,Rabi       ,Urad,700796,371284
+387,1999,Rabi       ,Wheat,26733565,75067133
+388,1999,Summer     ,Bajra,181100,373300
+389,1999,Summer     ,Groundnut,224333,319571
+390,1999,Summer     ,Jowar,8514,19161
+391,1999,Summer     ,Maize,177055,407753
+392,1999,Summer     ,Moong(Green Gram),78796,42282
+393,1999,Summer     ,Potato,2478,33214
+394,1999,Summer     ,Ragi,15784,31533
+395,1999,Summer     ,Rice,2678873,7446114
+396,1999,Summer     ,Sesamum,102044,72230
+397,1999,Summer     ,Sunflower,44745,27732
+398,1999,Summer     ,Urad,66860,32452
+399,1999,Whole Year ,Arecanut,172792,162025
+400,1999,Whole Year ,Banana,237670,5786305
+401,1999,Whole Year ,Black pepper,205614,64398
+402,1999,Whole Year ,Cardamom,65628,9599
+403,1999,Whole Year ,Cashewnut,165445,86065
+404,1999,Whole Year ,Coconut ,1279389,5859816570
+405,1999,Whole Year ,Coriander,307685,200350
+406,1999,Whole Year ,Dry chillies,635542,794356
+407,1999,Whole Year ,Dry ginger,15663,76234
+408,1999,Whole Year ,Garlic,89274,388572
+409,1999,Whole Year ,Guar seed,2980809,3745830
+410,1999,Whole Year ,Moth,201,83
+411,1999,Whole Year ,Oilseeds total,33883,31398
+412,1999,Whole Year ,Onion,370109,3597628
+413,1999,Whole Year ,Peas & beans (Pulses),405066,560444
+414,1999,Whole Year ,Potato,832103,14295262
+415,1999,Whole Year ,Pulses total,6554,6634
+416,1999,Whole Year ,Sannhamp,28344,58142
+417,1999,Whole Year ,Sugarcane,4093960,292148395.8
+418,1999,Whole Year ,Sweet potato,31189,210993
+419,1999,Whole Year ,Tapioca,217396,6010718
+420,1999,Whole Year ,Tea,58,62
+421,1999,Whole Year ,Tobacco,379600,552110
+422,1999,Whole Year ,Turmeric,70252,231615
+423,1999,Winter     ,Gram,329,263
+424,1999,Winter     ,Potato,313373,7449103
+425,1999,Winter     ,Rapeseed &Mustard,22,22
+426,1999,Winter     ,Rice,9636168,15061278
+427,1999,Winter     ,Sesamum,2510,1285
+428,1999,Winter     ,Sugarcane,32434,1944050
+429,1999,Winter     ,Sunflower,5,3
+430,1999,Winter     ,Wheat,715,1236
+431,2000,Autumn     ,Rice,4857721,6410624
+432,2000,Kharif     ,Arecanut,4354,7200
+433,2000,Kharif     ,Arhar/Tur,3620154,2251956
+434,2000,Kharif     ,Bajra,9754832,6619084.2
+435,2000,Kharif     ,Banana,15,220
+436,2000,Kharif     ,Barley,34,9
+437,2000,Kharif     ,Castor seed,1081672,887176.4
+438,2000,Kharif     ,Coconut ,180,801
+439,2000,Kharif     ,Cotton(lint),8550604,9156401
+440,2000,Kharif     ,Dry chillies,183741,410643
+441,2000,Kharif     ,Dry ginger,46861,241819
+442,2000,Kharif     ,Gram,100,173
+443,2000,Kharif     ,Groundnut,6071913,5631830.8
+444,2000,Kharif     ,Horse-gram,491516,217188.3
+445,2000,Kharif     ,Jowar,5042610,4848225.2
+446,2000,Kharif     ,Jute,836253,9323541
+447,2000,Kharif     ,Jute & mesta,2784,23635
+448,2000,Kharif     ,Kapas,7340,7684
+449,2000,Kharif     ,Korra,32728,24326
+450,2000,Kharif     ,Maize,5960217,10210790.2
+451,2000,Kharif     ,Masoor,993,276
+452,2000,Kharif     ,Mesta,160018,1175786
+453,2000,Kharif     ,Moong(Green Gram),2582950,843786
+454,2000,Kharif     ,Moth,1005907,147795
+455,2000,Kharif     ,Niger seed,447710,97040
+456,2000,Kharif     ,Onion,17058,227873
+457,2000,Kharif     ,Other Cereals & Millets,103480,79828
+458,2000,Kharif     ,Other Kharif pulses,1496118,426234
+459,2000,Kharif     ,Peas & beans (Pulses),11270,15136
+460,2000,Kharif     ,Potato,6286,138309
+461,2000,Kharif     ,Ragi,1669860,2563383.7
+462,2000,Kharif     ,Rice,25618736,51268561.8
+463,2000,Kharif     ,Samai,32020,14057
+464,2000,Kharif     ,Sannhamp,29,17
+465,2000,Kharif     ,Sesamum,1531342,428045.7
+466,2000,Kharif     ,Small millets,1318136,491383.9
+467,2000,Kharif     ,Soyabean,6380376,5253274
+468,2000,Kharif     ,Sunflower,556740,373116.2
+469,2000,Kharif     ,Urad,2177372,843135.6
+470,2000,Kharif     ,Varagu,20,15
+471,2000,Kharif     ,other misc. pulses,8578,2545
+472,2000,Kharif     ,other oilseeds,88,38
+473,2000,Rabi       ,Arhar/Tur,6148,2731
+474,2000,Rabi       ,Bajra,14389,12653
+475,2000,Rabi       ,Barley,763969,1418342
+476,2000,Rabi       ,Castor seed,8650,3940
+477,2000,Rabi       ,Dry chillies,54262,115528
+478,2000,Rabi       ,Gram,5185876,3857634
+479,2000,Rabi       ,Groundnut,460785,657398
+480,2000,Rabi       ,Horse-gram,202313,79113
+481,2000,Rabi       ,Jowar,4941106,2845338
+482,2000,Rabi       ,Khesari,447916,294629
+483,2000,Rabi       ,Korra,237,170
+484,2000,Rabi       ,Linseed,487509,168287.6
+485,2000,Rabi       ,Maize,429852,1274371
+486,2000,Rabi       ,Masoor,960734,694100.5
+487,2000,Rabi       ,Moong(Green Gram),384082,179389.1
+488,2000,Rabi       ,Niger seed,31500,9030
+489,2000,Rabi       ,Onion,13248,308617
+490,2000,Rabi       ,Other  Rabi pulses,1000756,438016
+491,2000,Rabi       ,Other Cereals & Millets,3297,2853
+492,2000,Rabi       ,Peas & beans (Pulses),398367,412719
+493,2000,Rabi       ,Potato,6473,148125
+494,2000,Rabi       ,Ragi,44224,52308
+495,2000,Rabi       ,Rapeseed &Mustard,3982362,3699286.4
+496,2000,Rabi       ,Rice,1301353,4359950
+497,2000,Rabi       ,Safflower,408529,202519.4
+498,2000,Rabi       ,Samai,135,78
+499,2000,Rabi       ,Sesamum,44366,9793
+500,2000,Rabi       ,Small millets,6348,3960
+501,2000,Rabi       ,Sunflower,458556,218115
+502,2000,Rabi       ,Urad,554164,408625.2
+503,2000,Rabi       ,Varagu,1589,1201
+504,2000,Rabi       ,Wheat,25625749,69485629.9
+505,2000,Rabi       ,other misc. pulses,3628,487
+506,2000,Rabi       ,other oilseeds,857,700
+507,2000,Summer     ,Bajra,142913,273198
+508,2000,Summer     ,Groundnut,144741,207133
+509,2000,Summer     ,Jowar,5878,11916
+510,2000,Summer     ,Maize,167211,492150
+511,2000,Summer     ,Moong(Green Gram),8197,4809
+512,2000,Summer     ,Ragi,10781,21376
+513,2000,Summer     ,Rice,2461348,7047502
+514,2000,Summer     ,Sunflower,37399,25605
+515,2000,Whole Year ,Arecanut,298974,345715
+516,2000,Whole Year ,Banana,299410,6616889
+517,2000,Whole Year ,Black pepper,211034,79328
+518,2000,Whole Year ,Cardamom,63313,11058
+519,2000,Whole Year ,Cashewnut,326562,119725
+520,2000,Whole Year ,Coconut ,1437242,6880408107
+521,2000,Whole Year ,Coriander,346681,228821
+522,2000,Whole Year ,Dry chillies,497057,383947
+523,2000,Whole Year ,Dry ginger,22374,102993
+524,2000,Whole Year ,Garlic,51837,155232
+525,2000,Whole Year ,Guar seed,3331472,541833
+526,2000,Whole Year ,Oilseeds total,32561,31759
+527,2000,Whole Year ,Onion,258366,1950955
+528,2000,Whole Year ,Potato,1061527,20047163.9
+529,2000,Whole Year ,Pulses total,6202,6780
+530,2000,Whole Year ,Sannhamp,35749,70180
+531,2000,Whole Year ,Sesamum,107161,92276
+532,2000,Whole Year ,Sugarcane,4327093,296025938.3
+533,2000,Whole Year ,Sweet potato,67660,474245
+534,2000,Whole Year ,Tapioca,254337,6825440
+535,2000,Whole Year ,Tea,620,2670
+536,2000,Whole Year ,Tobacco,249139,328553
+537,2000,Whole Year ,Turmeric,174698,684142
+538,2000,Whole Year ,other oilseeds,133,55
+539,2000,Winter     ,Gram,140,140
+540,2000,Winter     ,Niger seed,30,30
+541,2000,Winter     ,Rice,8951460,14006418
+542,2000,Winter     ,Sugarcane,1422,92430
+543,2000,Winter     ,Wheat,710,1500
+544,2001,Autumn     ,Maize,244793,396864
+545,2001,Autumn     ,Rice,3809760,5809491
+546,2001,Kharif     ,Arecanut,4354,7300
+547,2001,Kharif     ,Arhar/Tur,3298700,2243767.1
+548,2001,Kharif     ,Bajra,9362864,8004092
+549,2001,Kharif     ,Banana,15,300
+550,2001,Kharif     ,Barley,27,7
+551,2001,Kharif     ,Castor seed,681003,639819.01
+552,2001,Kharif     ,Coconut ,180,450
+553,2001,Kharif     ,Cotton(lint),9038620,9838451
+554,2001,Kharif     ,Dry chillies,170661,463307
+555,2001,Kharif     ,Dry ginger,51171,259350
+556,2001,Kharif     ,Gram,91,101
+557,2001,Kharif     ,Groundnut,5828324,6363853.4
+558,2001,Kharif     ,Horse-gram,342286,150538.1
+559,2001,Kharif     ,Jowar,4534120,4320625
+560,2001,Kharif     ,Jute,871600,10527107
+561,2001,Kharif     ,Jute & mesta,2980,25400
+562,2001,Kharif     ,Korra,26049,18285
+563,2001,Kharif     ,Maize,5510485,10455136.5
+564,2001,Kharif     ,Masoor,751,278
+565,2001,Kharif     ,Mesta,119488,919744
+566,2001,Kharif     ,Moong(Green Gram),2600777.5,890582.3
+567,2001,Kharif     ,Moth,1349749,324739.6
+568,2001,Kharif     ,Niger seed,525597,189220.06
+569,2001,Kharif     ,Onion,17736,234978
+570,2001,Kharif     ,Other Cereals & Millets,7411,2004
+571,2001,Kharif     ,Other Kharif pulses,1124130,379980
+572,2001,Kharif     ,Peas & beans (Pulses),11384.9,15739.1
+573,2001,Kharif     ,Potato,7761,155501
+574,2001,Kharif     ,Ragi,1524487,2242799.8
+575,2001,Kharif     ,Rice,29178013,60803929
+576,2001,Kharif     ,Samai,30321,14938
+577,2001,Kharif     ,Sannhamp,10,6
+578,2001,Kharif     ,Sesamum,1434351,569653.6
+579,2001,Kharif     ,Small millets,1189393,495909.1
+580,2001,Kharif     ,Soyabean,6301951,5921466
+581,2001,Kharif     ,Sunflower,504943,348802.01
+582,2001,Kharif     ,Urad,2155925,891597.7
+583,2001,Rabi       ,Arhar/Tur,5729,2866
+584,2001,Rabi       ,Bajra,10126,7663
+585,2001,Rabi       ,Barley,655001,1417975
+586,2001,Rabi       ,Castor seed,9220,5020
+587,2001,Rabi       ,Dry chillies,54167,128104
+588,2001,Rabi       ,Gram,6405691,5467762
+589,2001,Rabi       ,Groundnut,262522,446042
+590,2001,Rabi       ,Horse-gram,260684,105118
+591,2001,Rabi       ,Jowar,5226588,3202841
+592,2001,Rabi       ,Khesari,606893,387013
+593,2001,Rabi       ,Korra,99,74
+594,2001,Rabi       ,Linseed,487262,191538.41
+595,2001,Rabi       ,Maize,425887,1393730
+596,2001,Rabi       ,Masoor,958889,731495.63
+597,2001,Rabi       ,Moong(Green Gram),199648.77,69145.9
+598,2001,Rabi       ,Niger seed,28290,8860
+599,2001,Rabi       ,Onion,14089,324477
+600,2001,Rabi       ,Other  Rabi pulses,1084289,535351
+601,2001,Rabi       ,Other Cereals & Millets,1213,1383
+602,2001,Rabi       ,Peas & beans (Pulses),425149.5,483397.84
+603,2001,Rabi       ,Potato,5739,121724
+604,2001,Rabi       ,Ragi,53401,69267
+605,2001,Rabi       ,Rapeseed &Mustard,4720478,4732680
+606,2001,Rabi       ,Rice,1457801,5003638
+607,2001,Rabi       ,Safflower,403461,220531.04
+608,2001,Rabi       ,Samai,25,15
+609,2001,Rabi       ,Sesamum,51555,17099
+610,2001,Rabi       ,Small millets,22132,11061
+611,2001,Rabi       ,Sunflower,615824,278340
+612,2001,Rabi       ,Urad,654861,412794.96
+613,2001,Rabi       ,Varagu,807,671
+614,2001,Rabi       ,Wheat,26293354,72647861.9
+615,2001,Rabi       ,other oilseeds,238,483
+616,2001,Summer     ,Bajra,140750,254429
+617,2001,Summer     ,Groundnut,139029,206179
+618,2001,Summer     ,Jowar,6418,12385
+619,2001,Summer     ,Maize,167636,423869
+620,2001,Summer     ,Moong(Green Gram),8468,4733
+621,2001,Summer     ,Ragi,9271,14154
+622,2001,Summer     ,Rice,2639775,6447058
+623,2001,Summer     ,Sunflower,47736,39470
+624,2001,Whole Year ,Arecanut,323218,366714
+625,2001,Whole Year ,Banana,208717,4214575
+626,2001,Whole Year ,Black pepper,213667,80436
+627,2001,Whole Year ,Cardamom,44211,10869
+628,2001,Whole Year ,Cashewnut,238079,104955
+629,2001,Whole Year ,Coconut ,1453979,6881286092
+630,2001,Whole Year ,Coffee,84795,66690
+631,2001,Whole Year ,Coriander,396757,305944
+632,2001,Whole Year ,Dry chillies,449135,341816
+633,2001,Whole Year ,Dry ginger,21713,103702
+634,2001,Whole Year ,Garlic,61580,230872
+635,2001,Whole Year ,Guar seed,2674148,935123
+636,2001,Whole Year ,Oilseeds total,40820,37164
+637,2001,Whole Year ,Onion,253791,2318679
+638,2001,Whole Year ,Peas & beans (Pulses),6974,42197
+639,2001,Whole Year ,Potato,1092907,22067516.3
+640,2001,Whole Year ,Pulses total,6766,7126
+641,2001,Whole Year ,Rubber,475039,580350
+642,2001,Whole Year ,Sannhamp,16093,21916
+643,2001,Whole Year ,Sesamum,108557,90837
+644,2001,Whole Year ,Sugarcane,4402345,296423497.1
+645,2001,Whole Year ,Sweet potato,67062,488542
+646,2001,Whole Year ,Tapioca,136529,2653607
+647,2001,Whole Year ,Tea,37314,68890
+648,2001,Whole Year ,Tobacco,265138,477000.01
+649,2001,Whole Year ,Turmeric,131093,401082
+650,2001,Winter     ,Gram,161,129
+651,2001,Winter     ,Niger seed,70,82
+652,2001,Winter     ,Rice,5660480,11993752
+653,2001,Winter     ,Sugarcane,1273,89110
+654,2001,Winter     ,Wheat,735,1441
+655,2002,Autumn     ,Dry chillies,17988,15716
+656,2002,Autumn     ,Maize,317815.33,502491.85
+657,2002,Autumn     ,Ragi,26659.73,32959.9
+658,2002,Autumn     ,Rice,1681533.61,2246769.49
+659,2002,Autumn     ,Sesamum,1049,589
+660,2002,Kharif     ,Arhar/Tur,2937238,1765751
+661,2002,Kharif     ,Bajra,7586785,4480475.3
+662,2002,Kharif     ,Banana,15,300
+663,2002,Kharif     ,Castor seed,576115,427410.01
+664,2002,Kharif     ,Coconut ,180,450
+665,2002,Kharif     ,Cotton(lint),7632933,8562608.2
+666,2002,Kharif     ,Dry chillies,176001,309369
+667,2002,Kharif     ,Dry ginger,53652,265338.1
+668,2002,Kharif     ,Gram,37,45
+669,2002,Kharif     ,Groundnut,5447400,3436932.7
+670,2002,Kharif     ,Horse-gram,383802,121411.6
+671,2002,Kharif     ,Jowar,4307064,4294582
+672,2002,Kharif     ,Jute,862961,10262222
+673,2002,Kharif     ,Khesari,584,507
+674,2002,Kharif     ,Korra,19024,11619
+675,2002,Kharif     ,Maize,5624345,8678614.4
+676,2002,Kharif     ,Masoor,898,387
+677,2002,Kharif     ,Mesta,123232,859302
+678,2002,Kharif     ,Moong(Green Gram),2538085,674491.7
+679,2002,Kharif     ,Moth,492939,35686
+680,2002,Kharif     ,Niger seed,387434,79109.04
+681,2002,Kharif     ,Onion,15403,171950
+682,2002,Kharif     ,Other Cereals & Millets,8854,2494
+683,2002,Kharif     ,Other Kharif pulses,1308053,352858
+684,2002,Kharif     ,Peas & beans (Pulses),11495,15407
+685,2002,Kharif     ,Potato,7741,154194
+686,2002,Kharif     ,Ragi,1269869,1191993.9
+687,2002,Kharif     ,Rice,26573964,43791995.66
+688,2002,Kharif     ,Samai,42919,31032
+689,2002,Kharif     ,Sannhamp,24,14
+690,2002,Kharif     ,Sesamum,1214364,328472.9
+691,2002,Kharif     ,Small millets,1268123,376082.6
+692,2002,Kharif     ,Soyabean,6068435,4584567
+693,2002,Kharif     ,Sunflower,850175,505578.04
+694,2002,Kharif     ,Urad,2226903,884169.9
+695,2002,Kharif     ,Varagu,14177,15789
+696,2002,Rabi       ,Arhar/Tur,26651.15,33647.47
+697,2002,Rabi       ,Bajra,7539,4882
+698,2002,Rabi       ,Barley,664523,1378805.1
+699,2002,Rabi       ,Castor seed,6400,2750
+700,2002,Rabi       ,Dry chillies,90950,145901
+701,2002,Rabi       ,Gram,5892764.47,4227863.42
+702,2002,Rabi       ,Groundnut,332959,434089
+703,2002,Rabi       ,Horse-gram,277327,83287
+704,2002,Rabi       ,Jowar,4957906,2688463
+705,2002,Rabi       ,Khesari,503637,310452
+706,2002,Rabi       ,Linseed,434837,168071.21
+707,2002,Rabi       ,Maize,441515,1366511
+708,2002,Rabi       ,Masoor,883771.66,670318.15
+709,2002,Rabi       ,Moong(Green Gram),145332,38118
+710,2002,Rabi       ,Niger seed,19930,5810
+711,2002,Rabi       ,Onion,28421,412961
+712,2002,Rabi       ,Other  Rabi pulses,1015574,432310
+713,2002,Rabi       ,Other Cereals & Millets,471,474
+714,2002,Rabi       ,Peas & beans (Pulses),432564,497880
+715,2002,Rabi       ,Potato,19072.37,234906.95
+716,2002,Rabi       ,Ragi,89618,73396
+717,2002,Rabi       ,Rapeseed &Mustard,4232075.34,3596766.78
+718,2002,Rabi       ,Rice,767694,2387573
+719,2002,Rabi       ,Safflower,369442,180316.04
+720,2002,Rabi       ,Sesamum,32350,6335
+721,2002,Rabi       ,Small millets,14117,5713
+722,2002,Rabi       ,Sunflower,736985,315753
+723,2002,Rabi       ,Urad,662085,363995
+724,2002,Rabi       ,Varagu,2000,1000
+725,2002,Rabi       ,Wheat,25196201.69,65759155.34
+726,2002,Rabi       ,other oilseeds,11508,14226
+727,2002,Summer     ,Bajra,142542,229681
+728,2002,Summer     ,Groundnut,147196,242380
+729,2002,Summer     ,Jowar,9316,15398
+730,2002,Summer     ,Maize,180493,474721
+731,2002,Summer     ,Moong(Green Gram),258840,155095
+732,2002,Summer     ,Onion,22373,250128
+733,2002,Summer     ,Potato,2395,30807
+734,2002,Summer     ,Ragi,6929,7952
+735,2002,Summer     ,Rice,2011434,5439685
+736,2002,Summer     ,Sesamum,107105,87306
+737,2002,Summer     ,Sunflower,39673,24727
+738,2002,Summer     ,Urad,55902,29881
+739,2002,Whole Year ,Apple,4,0
+740,2002,Whole Year ,Arcanut (Processed),144116,192831
+741,2002,Whole Year ,Arecanut,189845,188610
+742,2002,Whole Year ,Ash Gourd,744,0
+743,2002,Whole Year ,Atcanut (Raw),144116,927250
+744,2002,Whole Year ,Banana,299700,6371322
+745,2002,Whole Year ,Beans & Mutter(Vegetable),21543,84737
+746,2002,Whole Year ,Beet Root,925,0
+747,2002,Whole Year ,Ber,101,0
+748,2002,Whole Year ,Bhindi,32758,153024
+749,2002,Whole Year ,Bitter Gourd,3334,80
+750,2002,Whole Year ,Black pepper,219583,90660
+751,2002,Whole Year ,Bottle Gourd,1259,130
+752,2002,Whole Year ,Brinjal,54292,351756
+753,2002,Whole Year ,Cabbage,7795,143193
+754,2002,Whole Year ,Cardamom,63691,11915
+755,2002,Whole Year ,Carrot,2630,2085
+756,2002,Whole Year ,Cashewnut,342328,128810
+757,2002,Whole Year ,Cashewnut Processed,57461,8121
+758,2002,Whole Year ,Cashewnut Raw,146009,98462
+759,2002,Whole Year ,Cauliflower,7831,8775
+760,2002,Whole Year ,Citrus Fruit,93685,382994
+761,2002,Whole Year ,Coconut ,1799216,7150888917
+762,2002,Whole Year ,Coffee,83113,63322
+763,2002,Whole Year ,Coriander,277552,166701.11
+764,2002,Whole Year ,Cucumber,5490,0
+765,2002,Whole Year ,Drum Stick,26747,23052
+766,2002,Whole Year ,Dry chillies,415320,343433.71
+767,2002,Whole Year ,Dry ginger,19681.3,94709
+768,2002,Whole Year ,Garlic,76085,258789
+769,2002,Whole Year ,Grapes,14427,366079
+770,2002,Whole Year ,Guar seed,766829,106609
+771,2002,Whole Year ,Jack Fruit,95745,32983
+772,2002,Whole Year ,Jute & mesta,3002,23307
+773,2002,Whole Year ,Lab-Lab,1466,0
+774,2002,Whole Year ,Litchi,4,0
+775,2002,Whole Year ,Mango,625854,2779266
+776,2002,Whole Year ,Oilseeds total,39497,36341
+777,2002,Whole Year ,Onion,271378,2410209
+778,2002,Whole Year ,Orange,59219,802476
+779,2002,Whole Year ,Other Citrus Fruit,1605,0
+780,2002,Whole Year ,Other Fresh Fruits,131161,148029
+781,2002,Whole Year ,Other Vegetables,231375,437509
+782,2002,Whole Year ,Papaya,35824,1006439
+783,2002,Whole Year ,Peach,19,0
+784,2002,Whole Year ,Pear,1296,0
+785,2002,Whole Year ,Peas  (vegetable),92,0
+786,2002,Whole Year ,Pineapple,45797,504690
+787,2002,Whole Year ,Plums,378,0
+788,2002,Whole Year ,Pome Fruit,28973,212912
+789,2002,Whole Year ,Pome Granet,651,0
+790,2002,Whole Year ,Potato,890340,14848270.3
+791,2002,Whole Year ,Pulses total,6801,7239
+792,2002,Whole Year ,Pump Kin,890,0
+793,2002,Whole Year ,Redish,1113,2059
+794,2002,Whole Year ,Ribed Guard,376,0
+795,2002,Whole Year ,Rubber,476047,594917
+796,2002,Whole Year ,Sannhamp,23950,29394
+797,2002,Whole Year ,Snak Guard,1614,0
+798,2002,Whole Year ,Sugarcane,4500435,286968622.2
+799,2002,Whole Year ,Sweet potato,79382,597144
+800,2002,Whole Year ,Tapioca,194031,4698211
+801,2002,Whole Year ,Tea,37818,57889.3
+802,2002,Whole Year ,Tobacco,327680,525079.11
+803,2002,Whole Year ,Tomato,146457,1015497
+804,2002,Whole Year ,Turmeric,691195,843763.02
+805,2002,Whole Year ,Turnip,348,145
+806,2002,Whole Year ,Water Melon,4311,0
+807,2002,Whole Year ,Yam,910,0
+808,2002,Whole Year ,other fibres,6445,0
+809,2002,Whole Year ,other oilseeds,7437.1,3606.31
+810,2002,Winter     ,Gram,148,118
+811,2002,Winter     ,Niger seed,20,23
+812,2002,Winter     ,Potato,357431.78,6946247.81
+813,2002,Winter     ,Rice,9760534.68,17587376.52
+814,2002,Winter     ,Sesamum,2782,1573
+815,2002,Winter     ,Sugarcane,1537,122960
+816,2002,Winter     ,Wheat,750,1470
+817,2003,Autumn     ,Maize,89591.91,136369.87
+818,2003,Autumn     ,Ragi,73301.3,50316.73
+819,2003,Autumn     ,Rice,2051730.1,2476153.07
+820,2003,Kharif     ,Arhar/Tur,3432190.06,2322026.12
+821,2003,Kharif     ,Bajra,10483030,11688757
+822,2003,Kharif     ,Banana,440,1408
+823,2003,Kharif     ,Castor seed,685001,788968
+824,2003,Kharif     ,Coconut ,180,450
+825,2003,Kharif     ,Cotton(lint),7550673,13624401
+826,2003,Kharif     ,Dry chillies,199545,661563
+827,2003,Kharif     ,Dry ginger,50424,234403
+828,2003,Kharif     ,Gram,75,115
+829,2003,Kharif     ,Groundnut,5404042,7294672.4
+830,2003,Kharif     ,Horse-gram,387651,132076.5
+831,2003,Kharif     ,Jowar,4567612,4893305
+832,2003,Kharif     ,Jute,847669,10244196
+833,2003,Kharif     ,Korra,26455,19409
+834,2003,Kharif     ,Maize,6347813,12382882.7
+835,2003,Kharif     ,Mesta,108804,773326
+836,2003,Kharif     ,Moong(Green Gram),2964481,1461815.8
+837,2003,Kharif     ,Moth,1550418,819454
+838,2003,Kharif     ,Niger seed,403640,102047
+839,2003,Kharif     ,Onion,16862,234546
+840,2003,Kharif     ,Other Cereals & Millets,77717,87277
+841,2003,Kharif     ,Other Kharif pulses,1323142,482706
+842,2003,Kharif     ,Peas & beans (Pulses),5717,4314
+843,2003,Kharif     ,Ragi,1520151,1798588.2
+844,2003,Kharif     ,Rice,27814311.37,57578809.87
+845,2003,Kharif     ,Samai,23470,9552
+846,2003,Kharif     ,Sannhamp,12,7
+847,2003,Kharif     ,Sesamum,1441616,611819.1
+848,2003,Kharif     ,Small millets,1021965,412185
+849,2003,Kharif     ,Soyabean,6516934,7788019
+850,2003,Kharif     ,Sunflower,1000140,603777
+851,2003,Kharif     ,Urad,2899870,1224415.9
+852,2003,Kharif     ,Varagu,4317,4957
+853,2003,Kharif     ,other misc. pulses,4179,0.16
+854,2003,Kharif     ,other oilseeds,26039,5006
+855,2003,Rabi       ,Arhar/Tur,7703,3356
+856,2003,Rabi       ,Bajra,9720,6580
+857,2003,Rabi       ,Barley,653910.82,1305483.28
+858,2003,Rabi       ,Castor seed,6830,3050
+859,2003,Rabi       ,Dry chillies,50772,135462
+860,2003,Rabi       ,Gram,7067002.21,5738557.98
+861,2003,Rabi       ,Groundnut,383417,532166
+862,2003,Rabi       ,Horse-gram,240283,76057
+863,2003,Rabi       ,Jowar,4725052,1734133
+864,2003,Rabi       ,Khesari,629631,442358
+865,2003,Rabi       ,Linseed,414711,169275.1
+866,2003,Rabi       ,Maize,500027,1630070
+867,2003,Rabi       ,Masoor,915364.61,805034.08
+868,2003,Rabi       ,Moong(Green Gram),253677,89322
+869,2003,Rabi       ,Niger seed,19610,6170
+870,2003,Rabi       ,Onion,20968,410968
+871,2003,Rabi       ,Other  Rabi pulses,961188,474658
+872,2003,Rabi       ,Other Cereals & Millets,660,755
+873,2003,Rabi       ,Peas & beans (Pulses),507231,645553
+874,2003,Rabi       ,Potato,9350.04,73413.8
+875,2003,Rabi       ,Ragi,76337,33048
+876,2003,Rabi       ,Rapeseed &Mustard,5068743,5963477.47
+877,2003,Rabi       ,Rice,921946,3272481
+878,2003,Rabi       ,Safflower,365297,137537
+879,2003,Rabi       ,Sesamum,50492,10344
+880,2003,Rabi       ,Small millets,30669,11617
+881,2003,Rabi       ,Sunflower,951921,293553
+882,2003,Rabi       ,Urad,421698,176060
+883,2003,Rabi       ,Varagu,719,385
+884,2003,Rabi       ,Wheat,26823541.7,72779084.81
+885,2003,Rabi       ,other misc. pulses,14458,6672.06
+886,2003,Rabi       ,other oilseeds,14730,8600
+887,2003,Summer     ,Bajra,170800,365771
+888,2003,Summer     ,Groundnut,180191,282108
+889,2003,Summer     ,Jowar,7007,18783
+890,2003,Summer     ,Maize,190268,489525
+891,2003,Summer     ,Moong(Green Gram),224305,110448
+892,2003,Summer     ,Onion,11390,112405
+893,2003,Summer     ,Ragi,6565,7808
+894,2003,Summer     ,Rice,2005591,5596813
+895,2003,Summer     ,Sunflower,41795,23177
+896,2003,Summer     ,Urad,58386,28891
+897,2003,Whole Year ,Apple,5,0
+898,2003,Whole Year ,Arecanut,355772,420955
+899,2003,Whole Year ,Ash Gourd,900,0
+900,2003,Whole Year ,Banana,366799,10949888
+901,2003,Whole Year ,Beans & Mutter(Vegetable),27120,126622
+902,2003,Whole Year ,Beet Root,647,0
+903,2003,Whole Year ,Ber,17,0
+904,2003,Whole Year ,Bhindi,33997,164053
+905,2003,Whole Year ,Bitter Gourd,3161,273
+906,2003,Whole Year ,Black pepper,231897.5,95065.23
+907,2003,Whole Year ,Bottle Gourd,1384,468
+908,2003,Whole Year ,Brinjal,57488,534447
+909,2003,Whole Year ,Cabbage,8070,96107
+910,2003,Whole Year ,Cardamom,68907,12591
+911,2003,Whole Year ,Carrot,2242,1981
+912,2003,Whole Year ,Cashewnut,347299.5,151565.64
+913,2003,Whole Year ,Cauliflower,8881,9658
+914,2003,Whole Year ,Citrus Fruit,80159,496573
+915,2003,Whole Year ,Coconut ,1804528.74,7355742487
+916,2003,Whole Year ,Coriander,475769,383956.01
+917,2003,Whole Year ,Cucumber,7079,0
+918,2003,Whole Year ,Drum Stick,27447,23101
+919,2003,Whole Year ,Dry chillies,408779,372545
+920,2003,Whole Year ,Dry ginger,18962,96661.6
+921,2003,Whole Year ,Garlic,103204,512514
+922,2003,Whole Year ,Grapes,51583,1363200
+923,2003,Whole Year ,Guar seed,2582839,241967
+924,2003,Whole Year ,Jack Fruit,95873,27791
+925,2003,Whole Year ,Jute & mesta,2765,22018
+926,2003,Whole Year ,Lab-Lab,3402,0
+927,2003,Whole Year ,Litchi,21,0
+928,2003,Whole Year ,Mango,835165,3100202
+929,2003,Whole Year ,Oilseeds total,34753,31224
+930,2003,Whole Year ,Onion,432642.98,4915228.87
+931,2003,Whole Year ,Orange,83165,793030
+932,2003,Whole Year ,Other Citrus Fruit,2650,0
+933,2003,Whole Year ,Other Dry Fruit,7,0
+934,2003,Whole Year ,Other Fresh Fruits,136833,161771
+935,2003,Whole Year ,Other Vegetables,231644,363782
+936,2003,Whole Year ,Papaya,33406,649121
+937,2003,Whole Year ,Peach,23,0
+938,2003,Whole Year ,Pear,1380,0
+939,2003,Whole Year ,Peas  (vegetable),76,0
+940,2003,Whole Year ,Pineapple,46796,510517
+941,2003,Whole Year ,Plums,431,0
+942,2003,Whole Year ,Pome Fruit,27229,268428
+943,2003,Whole Year ,Pome Granet,514,0
+944,2003,Whole Year ,Potato,1213102,22109005.3
+945,2003,Whole Year ,Pulses total,7129,7719
+946,2003,Whole Year ,Pump Kin,965,0
+947,2003,Whole Year ,Redish,862,1877
+948,2003,Whole Year ,Ribed Guard,338,0
+949,2003,Whole Year ,Rubber,50,50
+950,2003,Whole Year ,Sannhamp,18572,25785.1
+951,2003,Whole Year ,Sesamum,163337,143004
+952,2003,Whole Year ,Snak Guard,1641,0
+953,2003,Whole Year ,Sugarcane,3999921.45,239694330.5
+954,2003,Whole Year ,Sweet potato,80002,610225
+955,2003,Whole Year ,Tapioca,217629,5925673
+956,2003,Whole Year ,Tea,1000,3020
+957,2003,Whole Year ,Tobacco,357508,568549.2
+958,2003,Whole Year ,Tomato,185651,1363827
+959,2003,Whole Year ,Turmeric,139154,525885
+960,2003,Whole Year ,Turnip,454,218
+961,2003,Whole Year ,Water Melon,8000,0
+962,2003,Whole Year ,Yam,865,0
+963,2003,Whole Year ,other fibres,6193,0
+964,2003,Whole Year ,other oilseeds,303402.29,309958.81
+965,2003,Winter     ,Gram,152,122
+966,2003,Winter     ,Niger seed,30,30
+967,2003,Winter     ,Potato,13174.37,121890.06
+968,2003,Winter     ,Rice,10388052.59,18912430.03
+969,2003,Winter     ,Sugarcane,1285,96375
+970,2003,Winter     ,Wheat,750,1470
+971,2004,Autumn     ,Groundnut,30494,25114.5
+972,2004,Autumn     ,Jute,2520,24728
+973,2004,Autumn     ,Maize,150728.15,228532.67
+974,2004,Autumn     ,Moong(Green Gram),18750,4371.8
+975,2004,Autumn     ,Ragi,53190.16,39658.47
+976,2004,Autumn     ,Rice,2413404.9,2495875.25
+977,2004,Autumn     ,Sesamum,4001,1334.4
+978,2004,Autumn     ,Urad,27222,5865.9
+979,2004,Kharif     ,Arhar/Tur,2881794,1812650
+980,2004,Kharif     ,Bajra,9168642,7741017
+981,2004,Kharif     ,Banana,50,160
+982,2004,Kharif     ,Castor seed,754828,803398
+983,2004,Kharif     ,Coconut ,185,462
+984,2004,Kharif     ,Cotton(lint),5908996,14039420
+985,2004,Kharif     ,Dry chillies,186120,599570
+986,2004,Kharif     ,Dry ginger,55804,276122
+987,2004,Kharif     ,Gram,111,98
+988,2004,Kharif     ,Groundnut,5957134,5689145
+989,2004,Kharif     ,Horse-gram,327485,141063
+990,2004,Kharif     ,Jowar,4128937,4060829
+991,2004,Kharif     ,Jute,768585,9359818
+992,2004,Kharif     ,Maize,6455632,11308336
+993,2004,Kharif     ,Masoor,0.5,0.2
+994,2004,Kharif     ,Mesta,92520,724842
+995,2004,Kharif     ,Moong(Green Gram),2615979,791095
+996,2004,Kharif     ,Moth,1488276,206746
+997,2004,Kharif     ,Niger seed,291025,76986
+998,2004,Kharif     ,Onion,21907,344540
+999,2004,Kharif     ,Other Cereals & Millets,164467,135906
+1000,2004,Kharif     ,Other Kharif pulses,674731,230165.18
+1001,2004,Kharif     ,Peas & beans (Pulses),6700,3770
+1002,2004,Kharif     ,Ragi,1352546,2168121
+1003,2004,Kharif     ,Rapeseed &Mustard,135,112
+1004,2004,Kharif     ,Rice,24136890.92,50478654.24
+1005,2004,Kharif     ,Sannhamp,3321,2369
+1006,2004,Kharif     ,Sesamum,1624512,524810
+1007,2004,Kharif     ,Small millets,868351,322282
+1008,2004,Kharif     ,Soyabean,5530791,4962937
+1009,2004,Kharif     ,Sugarcane,2002320,121755620
+1010,2004,Kharif     ,Sunflower,1242671,666165
+1011,2004,Kharif     ,Sweet potato,4974,16172
+1012,2004,Kharif     ,Tapioca,77,494
+1013,2004,Kharif     ,Urad,1971845,745913
+1014,2004,Kharif     ,other oilseeds,12617,5485
+1015,2004,Rabi       ,Arhar/Tur,30310.08,35228.11
+1016,2004,Rabi       ,Bajra,10350,6912
+1017,2004,Rabi       ,Barley,602355.57,1175090.24
+1018,2004,Rabi       ,Castor seed,7001,3910
+1019,2004,Rabi       ,Dry chillies,50419,148939
+1020,2004,Rabi       ,Gram,6635826.22,5379604
+1021,2004,Rabi       ,Groundnut,391691,536652
+1022,2004,Rabi       ,Horse-gram,201756,70516
+1023,2004,Rabi       ,Jowar,4850182,2984182
+1024,2004,Rabi       ,Khesari,602691,288213
+1025,2004,Rabi       ,Linseed,383243,151320
+1026,2004,Rabi       ,Maize,472512,1745783
+1027,2004,Rabi       ,Masoor,875453.72,494188.73
+1028,2004,Rabi       ,Moong(Green Gram),173209,57122
+1029,2004,Rabi       ,Niger seed,123617,33969
+1030,2004,Rabi       ,Onion,13608.19,268691.14
+1031,2004,Rabi       ,Other  Rabi pulses,295668,163655
+1032,2004,Rabi       ,Other Cereals & Millets,22722,12222
+1033,2004,Rabi       ,Peas & beans (Pulses),102596,76935
+1034,2004,Rabi       ,Potato,443455.97,9803467.25
+1035,2004,Rabi       ,Ragi,52537,44897
+1036,2004,Rabi       ,Rapeseed &Mustard,7032706.26,7244597.89
+1037,2004,Rabi       ,Rice,916649,3355946
+1038,2004,Rabi       ,Safflower,369964,180552
+1039,2004,Rabi       ,Sesamum,43627,14603
+1040,2004,Rabi       ,Small millets,11899,5403
+1041,2004,Rabi       ,Soyabean,2102200,1892400
+1042,2004,Rabi       ,Sugarcane,210,3350
+1043,2004,Rabi       ,Sunflower,1169731,570032
+1044,2004,Rabi       ,Turmeric,1594,2770
+1045,2004,Rabi       ,Urad,416446,258940
+1046,2004,Rabi       ,Wheat,26782075.58,69562077.85
+1047,2004,Rabi       ,other oilseeds,121,69
+1048,2004,Summer     ,Bajra,147108,304805
+1049,2004,Summer     ,Groundnut,183929,280773.8
+1050,2004,Summer     ,Horse-gram,240,418.4
+1051,2004,Summer     ,Jowar,15977,12690
+1052,2004,Summer     ,Maize,178197,541723.1
+1053,2004,Summer     ,Moong(Green Gram),296617,135263.3
+1054,2004,Summer     ,Ragi,7708,12066
+1055,2004,Summer     ,Rice,2398757,6874066
+1056,2004,Summer     ,Sesamum,8284,2184.6
+1057,2004,Summer     ,Sunflower,67262,63355
+1058,2004,Summer     ,Urad,4630,2253.5
+1059,2004,Summer     ,Wheat,4054,5312.5
+1060,2004,Whole Year ,Arecanut,281066.37,340328.05
+1061,2004,Whole Year ,Banana,284521.52,7780593.52
+1062,2004,Whole Year ,Black pepper,252164,103300.22
+1063,2004,Whole Year ,Cardamom,65777.87,12313.7
+1064,2004,Whole Year ,Cashewnut,392434,164929
+1065,2004,Whole Year ,Coconut ,1839597.4,7663983280
+1066,2004,Whole Year ,Coriander,362921,253669
+1067,2004,Whole Year ,Cotton(lint),2839500,2938500
+1068,2004,Whole Year ,Dry chillies,442441,367484
+1069,2004,Whole Year ,Dry ginger,20416,109600
+1070,2004,Whole Year ,Garlic,142715,625208
+1071,2004,Whole Year ,Groundnut,46467,71469
+1072,2004,Whole Year ,Guar seed,2188309,516935
+1073,2004,Whole Year ,Oilseeds total,27139,26281
+1074,2004,Whole Year ,Onion,361317,3890310
+1075,2004,Whole Year ,Potato,772059,12011614
+1076,2004,Whole Year ,Sannhamp,9751,17805
+1077,2004,Whole Year ,Sesamum,148267,125041
+1078,2004,Whole Year ,Sugarcane,1488986.23,107104003.6
+1079,2004,Whole Year ,Sweet potato,103699,876104
+1080,2004,Whole Year ,Tapioca,224253,7139675
+1081,2004,Whole Year ,Tobacco,353180,521657
+1082,2004,Whole Year ,Turmeric,144861,668096
+1083,2004,Whole Year ,other oilseeds,90.3,46.61
+1084,2004,Winter     ,Gram,184,151
+1085,2004,Winter     ,Groundnut,3187,3520.7
+1086,2004,Winter     ,Horse-gram,78105,20793
+1087,2004,Winter     ,Maize,1575,3105.7
+1088,2004,Winter     ,Moong(Green Gram),82486,16514.1
+1089,2004,Winter     ,Niger seed,30,30
+1090,2004,Winter     ,Potato,18862.41,156287.69
+1091,2004,Winter     ,Ragi,39385,25175.8
+1092,2004,Winter     ,Rapeseed &Mustard,15864,3030.4
+1093,2004,Winter     ,Rice,12798963.41,20967979.79
+1094,2004,Winter     ,Sesamum,36428,8075.3
+1095,2004,Winter     ,Sugarcane,15997,1046965.3
+1096,2004,Winter     ,Urad,92216,24914.7
+1097,2004,Winter     ,Wheat,750,1470
+1098,2005,Autumn     ,Groundnut,34909,28979.8
+1099,2005,Autumn     ,Jute,2724,24644
+1100,2005,Autumn     ,Maize,130970.36,163015.56
+1101,2005,Autumn     ,Moong(Green Gram),20063,4343.5
+1102,2005,Autumn     ,Ragi,54212.26,39695.88
+1103,2005,Autumn     ,Rice,2286322.86,2537558.71
+1104,2005,Autumn     ,Sesamum,3014,773.1
+1105,2005,Autumn     ,Urad,27147,5408.3
+1106,2005,Kharif     ,Arhar/Tur,2859235,2070003
+1107,2005,Kharif     ,Bajra,9499066,6733845.8
+1108,2005,Kharif     ,Banana,60,200
+1109,2005,Kharif     ,Barley,37,9.7
+1110,2005,Kharif     ,Castor seed,866755,946751
+1111,2005,Kharif     ,Coconut ,190,475
+1112,2005,Kharif     ,Cotton(lint),8255985,17807677.5
+1113,2005,Kharif     ,Dry chillies,245274,502595.1
+1114,2005,Kharif     ,Dry ginger,22541,100463.1
+1115,2005,Kharif     ,Groundnut,5866835,6721125
+1116,2005,Kharif     ,Horse-gram,301465,140721
+1117,2005,Kharif     ,Jowar,2395995,2151922.7
+1118,2005,Kharif     ,Jute,753546,9948765
+1119,2005,Kharif     ,Maize,6195507,11233373
+1120,2005,Kharif     ,Mesta,86452,779934
+1121,2005,Kharif     ,Moong(Green Gram),2450067,736011.8
+1122,2005,Kharif     ,Moth,1277327,176189
+1123,2005,Kharif     ,Niger seed,294986,73027
+1124,2005,Kharif     ,Onion,156872,1123902.1
+1125,2005,Kharif     ,Other Cereals & Millets,92039,86453.5
+1126,2005,Kharif     ,Other Kharif pulses,447416,154571.4
+1127,2005,Kharif     ,Peas & beans (Pulses),11168,30355.3
+1128,2005,Kharif     ,Potato,68409,232161
+1129,2005,Kharif     ,Ragi,1355159,2095244
+1130,2005,Kharif     ,Rapeseed &Mustard,3389,1411.2
+1131,2005,Kharif     ,Rice,24081996.47,52595313.04
+1132,2005,Kharif     ,Sannhamp,4556,3423.8
+1133,2005,Kharif     ,Sesamum,1501385,499106.4
+1134,2005,Kharif     ,Small millets,530596,227585
+1135,2005,Kharif     ,Soyabean,7994672,8557124
+1136,2005,Kharif     ,Sugarcane,2656682,164284324.1
+1137,2005,Kharif     ,Sunflower,832397,410032
+1138,2005,Kharif     ,Tapioca,300,1222
+1139,2005,Kharif     ,Tobacco,4,1.3
+1140,2005,Kharif     ,Turmeric,159,101.1
+1141,2005,Kharif     ,Urad,1800201,695673.3
+1142,2005,Kharif     ,Wheat,436,59.4
+1143,2005,Kharif     ,other oilseeds,1386,667.6
+1144,2005,Rabi       ,Arhar/Tur,16093.46,19615.83
+1145,2005,Rabi       ,Bajra,12185,9855
+1146,2005,Rabi       ,Barley,614635,1184673
+1147,2005,Rabi       ,Castor seed,45,37
+1148,2005,Rabi       ,Coriander,143,17
+1149,2005,Rabi       ,Dry chillies,46726,125346
+1150,2005,Rabi       ,Garlic,2986,1965
+1151,2005,Rabi       ,Gram,6819432.26,5575267.67
+1152,2005,Rabi       ,Groundnut,433534,604187
+1153,2005,Rabi       ,Horse-gram,197046,76226
+1154,2005,Rabi       ,Jowar,1504009,1343953
+1155,2005,Rabi       ,Khesari,590364,317439
+1156,2005,Rabi       ,Linseed,373510,146198
+1157,2005,Rabi       ,Maize,461053,1913395
+1158,2005,Rabi       ,Masoor,884456.21,511130.18
+1159,2005,Rabi       ,Moong(Green Gram),158894,51710
+1160,2005,Rabi       ,Onion,29405.12,467932.89
+1161,2005,Rabi       ,Other  Rabi pulses,180677,106286
+1162,2005,Rabi       ,Other Cereals & Millets,19871,23615
+1163,2005,Rabi       ,Peas & beans (Pulses),327325,223751
+1164,2005,Rabi       ,Potato,463958.34,10193607.14
+1165,2005,Rabi       ,Ragi,55354,103169
+1166,2005,Rabi       ,Rapeseed &Mustard,7003463.03,7892557.49
+1167,2005,Rabi       ,Rice,1502144,5427264
+1168,2005,Rabi       ,Safflower,363053,229768
+1169,2005,Rabi       ,Sesamum,41384,13702
+1170,2005,Rabi       ,Small millets,2324,2520
+1171,2005,Rabi       ,Sugarcane,270,3380
+1172,2005,Rabi       ,Sunflower,968388,522578
+1173,2005,Rabi       ,Turmeric,979,4364
+1174,2005,Rabi       ,Urad,409952,255772
+1175,2005,Rabi       ,Wheat,26204376.23,67299024
+1176,2005,Rabi       ,other oilseeds,184,156
+1177,2005,Summer     ,Bajra,165317,375589
+1178,2005,Summer     ,Dry chillies,6715,17719
+1179,2005,Summer     ,Groundnut,247420,387424.3
+1180,2005,Summer     ,Horse-gram,439,84.1
+1181,2005,Summer     ,Jowar,5708,9669
+1182,2005,Summer     ,Maize,188882,467174.6
+1183,2005,Summer     ,Moong(Green Gram),305103,139744
+1184,2005,Summer     ,Onion,4075,67545
+1185,2005,Summer     ,Peas & beans (Pulses),525,2655
+1186,2005,Summer     ,Potato,317,5078
+1187,2005,Summer     ,Ragi,8549,18354.7
+1188,2005,Summer     ,Rice,2608309,6924986
+1189,2005,Summer     ,Sesamum,10331,2786.6
+1190,2005,Summer     ,Sunflower,69772,61115
+1191,2005,Summer     ,Urad,6515,2558.5
+1192,2005,Summer     ,Wheat,3276,4484.3
+1193,2005,Whole Year ,Arecanut,370899.45,1277409.46
+1194,2005,Whole Year ,Banana,348842.8,9756691.13
+1195,2005,Whole Year ,Black pepper,257875.45,122121.05
+1196,2005,Whole Year ,Cardamom,68942,13829
+1197,2005,Whole Year ,Cashewnut,388305.5,179784.02
+1198,2005,Whole Year ,Coconut ,1841988.02,7453185366
+1199,2005,Whole Year ,Coriander,206920,169332
+1200,2005,Whole Year ,Cotton(lint),413310,585498
+1201,2005,Whole Year ,Dry chillies,179382.7,162504.6
+1202,2005,Whole Year ,Dry ginger,45843,413436
+1203,2005,Whole Year ,Garlic,90123,460578
+1204,2005,Whole Year ,Groundnut,48818,83116
+1205,2005,Whole Year ,Guar seed,2658975,721007
+1206,2005,Whole Year ,Mesta,2097,2662
+1207,2005,Whole Year ,Oilseeds total,27566,23695
+1208,2005,Whole Year ,Onion,246697,3937782
+1209,2005,Whole Year ,Potato,748383,11981581
+1210,2005,Whole Year ,Rice,56460,107740
+1211,2005,Whole Year ,Sannhamp,8235,15554
+1212,2005,Whole Year ,Sesamum,148628,136072
+1213,2005,Whole Year ,Sugarcane,1543367.7,120279102.1
+1214,2005,Whole Year ,Sunflower,444264,297556
+1215,2005,Whole Year ,Sweet potato,52365.9,498813.35
+1216,2005,Whole Year ,Tapioca,240803.5,7594285
+1217,2005,Whole Year ,Tobacco,357222,534523
+1218,2005,Whole Year ,Turmeric,136046.7,755169
+1219,2005,Whole Year ,other oilseeds,53.55,34.2
+1220,2005,Winter     ,Gram,137,162
+1221,2005,Winter     ,Groundnut,3171,2828.3
+1222,2005,Winter     ,Horse-gram,75000,20902.4
+1223,2005,Winter     ,Maize,5786,12840.4
+1224,2005,Winter     ,Moong(Green Gram),104909,19315.8
+1225,2005,Winter     ,Potato,24809.2,188333.96
+1226,2005,Winter     ,Ragi,38975,23718.1
+1227,2005,Winter     ,Rapeseed &Mustard,17402,3331.4
+1228,2005,Winter     ,Rice,12984331.25,21994324
+1229,2005,Winter     ,Sesamum,41371,9866.1
+1230,2005,Winter     ,Sugarcane,17863,1195488.3
+1231,2005,Winter     ,Urad,100077,25770.7
+1232,2005,Winter     ,Wheat,750,1500
+1233,2006,Autumn     ,Groundnut,32928,28795.7
+1234,2006,Autumn     ,Jute,4858,47835
+1235,2006,Autumn     ,Maize,129172.78,198898.8
+1236,2006,Autumn     ,Moong(Green Gram),22715,5200.2
+1237,2006,Autumn     ,Ragi,57651.89,40633.7
+1238,2006,Autumn     ,Rice,2238456.05,2696570.35
+1239,2006,Autumn     ,Sesamum,3320,610
+1240,2006,Autumn     ,Urad,27628,5991.5
+1241,2006,Kharif     ,Arecanut,63,82
+1242,2006,Kharif     ,Arhar/Tur,3244448,2098728
+1243,2006,Kharif     ,Bajra,9236964,7799351
+1244,2006,Kharif     ,Banana,6727,82257
+1245,2006,Kharif     ,Black pepper,12,7
+1246,2006,Kharif     ,Cardamom,900,1440
+1247,2006,Kharif     ,Castor seed,661673,803286
+1248,2006,Kharif     ,Coconut ,195,48750
+1249,2006,Kharif     ,Cotton(lint),8577289,20129218
+1250,2006,Kharif     ,Dry chillies,165510,610256
+1251,2006,Kharif     ,Dry ginger,35752,122266
+1252,2006,Kharif     ,Gram,134069,18350
+1253,2006,Kharif     ,Groundnut,4470195,3189531
+1254,2006,Kharif     ,Horse-gram,212012,78903
+1255,2006,Kharif     ,Jowar,3481811,3485944
+1256,2006,Kharif     ,Jute,793025,10350705
+1257,2006,Kharif     ,Maize,6218930,10195481
+1258,2006,Kharif     ,Mesta,101860,849790
+1259,2006,Kharif     ,Moong(Green Gram),2338016,762003
+1260,2006,Kharif     ,Moth,1197300,206256
+1261,2006,Kharif     ,Niger seed,291627,69278
+1262,2006,Kharif     ,Onion,18601,306843
+1263,2006,Kharif     ,Other Cereals & Millets,16740,8560
+1264,2006,Kharif     ,Other Kharif pulses,929953,518891
+1265,2006,Kharif     ,Peas & beans (Pulses),8260,5360
+1266,2006,Kharif     ,Potato,14194,124053
+1267,2006,Kharif     ,Ragi,928785,986202
+1268,2006,Kharif     ,Rapeseed &Mustard,3691,974
+1269,2006,Kharif     ,Rice,24233288.17,53739669.26
+1270,2006,Kharif     ,Sannhamp,6588,3945
+1271,2006,Kharif     ,Sesamum,1073976,346170
+1272,2006,Kharif     ,Small millets,817282,377138
+1273,2006,Kharif     ,Soyabean,8199577,8817503
+1274,2006,Kharif     ,Sugarcane,2249020,134333085
+1275,2006,Kharif     ,Sunflower,738059,255460
+1276,2006,Kharif     ,Sweet potato,18853,257323
+1277,2006,Kharif     ,Tapioca,4350,35011
+1278,2006,Kharif     ,Turmeric,187,99
+1279,2006,Kharif     ,Urad,1594389,584050
+1280,2006,Kharif     ,other oilseeds,4441,4600
+1281,2006,Rabi       ,Arecanut,12081,16561
+1282,2006,Rabi       ,Arhar/Tur,23559.83,24930
+1283,2006,Rabi       ,Bajra,12125,7029
+1284,2006,Rabi       ,Banana,60,1500
+1285,2006,Rabi       ,Barley,556516,1247945
+1286,2006,Rabi       ,Castor seed,91,70
+1287,2006,Rabi       ,Coriander,144,30
+1288,2006,Rabi       ,Cotton(lint),7208,7738
+1289,2006,Rabi       ,Dry chillies,50943,157362
+1290,2006,Rabi       ,Garlic,34864,142894
+1291,2006,Rabi       ,Gram,7485590.57,6375621
+1292,2006,Rabi       ,Groundnut,374018,526780
+1293,2006,Rabi       ,Horse-gram,271365,91665
+1294,2006,Rabi       ,Jowar,4649353,3177755
+1295,2006,Rabi       ,Jute,4311,37446
+1296,2006,Rabi       ,Khesari,605929,372464
+1297,2006,Rabi       ,Linseed,361001,138695
+1298,2006,Rabi       ,Maize,567293,2354075
+1299,2006,Rabi       ,Masoor,1464987.51,908202
+1300,2006,Rabi       ,Moong(Green Gram),175636,74530
+1301,2006,Rabi       ,Onion,23772.72,441287
+1302,2006,Rabi       ,Other  Rabi pulses,535121,480178
+1303,2006,Rabi       ,Other Cereals & Millets,48622,65368
+1304,2006,Rabi       ,Peas & beans (Pulses),297696,193242
+1305,2006,Rabi       ,Potato,517427.72,10660154
+1306,2006,Rabi       ,Ragi,65791,79545
+1307,2006,Rabi       ,Rapeseed &Mustard,6452195.5,7080767
+1308,2006,Rabi       ,Rice,1418653,5138694
+1309,2006,Rabi       ,Safflower,375524,239173
+1310,2006,Rabi       ,Sesamum,40932,13185
+1311,2006,Rabi       ,Small millets,5632,10037
+1312,2006,Rabi       ,Sugarcane,290,4850
+1313,2006,Rabi       ,Sunflower,839108,340865
+1314,2006,Rabi       ,Sweet potato,4947,16406
+1315,2006,Rabi       ,Tobacco,23936,124082
+1316,2006,Rabi       ,Turmeric,3537,19975
+1317,2006,Rabi       ,Urad,484797,364056
+1318,2006,Rabi       ,Wheat,27910433.04,77289825
+1319,2006,Rabi       ,other oilseeds,1501,1576
+1320,2006,Summer     ,Bajra,184636,429915
+1321,2006,Summer     ,Banana,1230,15820
+1322,2006,Summer     ,Cotton(lint),57,40
+1323,2006,Summer     ,Dry chillies,4,10
+1324,2006,Summer     ,Dry ginger,550,910
+1325,2006,Summer     ,Groundnut,250629,379098.3
+1326,2006,Summer     ,Horse-gram,197,25.4
+1327,2006,Summer     ,Jowar,4801,7214
+1328,2006,Summer     ,Maize,237899,727982.3
+1329,2006,Summer     ,Moong(Green Gram),306304,127278.2
+1330,2006,Summer     ,Onion,13655,154430
+1331,2006,Summer     ,Potato,850,4440
+1332,2006,Summer     ,Ragi,7281,14913.7
+1333,2006,Summer     ,Rice,2553167,7192732
+1334,2006,Summer     ,Sesamum,9607,2417
+1335,2006,Summer     ,Sugarcane,10,330
+1336,2006,Summer     ,Sunflower,79689,73537
+1337,2006,Summer     ,Tobacco,490,1445
+1338,2006,Summer     ,Turmeric,30,20
+1339,2006,Summer     ,Urad,6118,2162.1
+1340,2006,Summer     ,Wheat,3913,5802.3
+1341,2006,Whole Year ,Arecanut,373865,513361.3
+1342,2006,Whole Year ,Arhar/Tur,29127,21334
+1343,2006,Whole Year ,Bajra,65512,98969
+1344,2006,Whole Year ,Banana,350117.57,11297515
+1345,2006,Whole Year ,Black pepper,235396.26,95227
+1346,2006,Whole Year ,Cardamom,72504,13172
+1347,2006,Whole Year ,Cashewnut,375398,175099.13
+1348,2006,Whole Year ,Castor seed,5289,2031
+1349,2006,Whole Year ,Coconut ,1846808.09,8092518403
+1350,2006,Whole Year ,Coriander,305650,227273
+1351,2006,Whole Year ,Cotton(lint),476321,757193
+1352,2006,Whole Year ,Dry chillies,368253.32,339706
+1353,2006,Whole Year ,Dry ginger,41255.56,356481
+1354,2006,Whole Year ,Garlic,101249,514490
+1355,2006,Whole Year ,Gram,5933,4188
+1356,2006,Whole Year ,Groundnut,565427,1104721
+1357,2006,Whole Year ,Guar seed,3032507,759480
+1358,2006,Whole Year ,Horse-gram,55635,32549
+1359,2006,Whole Year ,Jowar,294376,293940
+1360,2006,Whole Year ,Maize,197782,759112
+1361,2006,Whole Year ,Mesta,1998,2667
+1362,2006,Whole Year ,Moong(Green Gram),134071,77404
+1363,2006,Whole Year ,Oilseeds total,32160,29265
+1364,2006,Whole Year ,Onion,319915,3300596
+1365,2006,Whole Year ,Potato,696523,8540153
+1366,2006,Whole Year ,Ragi,95478,148148
+1367,2006,Whole Year ,Rapeseed &Mustard,344,1508
+1368,2006,Whole Year ,Sannhamp,4612,14581
+1369,2006,Whole Year ,Sesamum,499746,301309
+1370,2006,Whole Year ,Sugarcane,1538027.89,133037707
+1371,2006,Whole Year ,Sunflower,471887,377321
+1372,2006,Whole Year ,Sweet potato,22292.4,133580
+1373,2006,Whole Year ,Tapioca,250321.03,8385088
+1374,2006,Whole Year ,Tobacco,307139,354477
+1375,2006,Whole Year ,Turmeric,134665.5,668853.03
+1376,2006,Whole Year ,Urad,251014,143053
+1377,2006,Whole Year ,other oilseeds,59.62,36.38
+1378,2006,Winter     ,Gram,115,141
+1379,2006,Winter     ,Groundnut,3535,4053.2
+1380,2006,Winter     ,Horse-gram,73305,21139.6
+1381,2006,Winter     ,Maize,5894,15469.4
+1382,2006,Winter     ,Moong(Green Gram),85385,17672.5
+1383,2006,Winter     ,Potato,28869.26,236675.7
+1384,2006,Winter     ,Ragi,39905,27462.8
+1385,2006,Winter     ,Rapeseed &Mustard,15163,2579.1
+1386,2006,Winter     ,Rice,12823233.37,22909692.73
+1387,2006,Winter     ,Sesamum,37449,7667.9
+1388,2006,Winter     ,Sugarcane,21262,1367730.6
+1389,2006,Winter     ,Urad,92126,28529.6
+1390,2006,Winter     ,Wheat,750,1550
+1391,2007,Autumn     ,Groundnut,31474,30631.8
+1392,2007,Autumn     ,Jute,5818,49836
+1393,2007,Autumn     ,Maize,404316.31,538131.6
+1394,2007,Autumn     ,Moong(Green Gram),23687,5929.2
+1395,2007,Autumn     ,Ragi,56767.12,45307.2
+1396,2007,Autumn     ,Rice,2195459.17,2416408.34
+1397,2007,Autumn     ,Sesamum,5621,1458.2
+1398,2007,Autumn     ,Urad,32628,7813.1
+1399,2007,Kharif     ,Arecanut,61,78
+1400,2007,Kharif     ,Arhar/Tur,2238826,1715228
+1401,2007,Kharif     ,Bajra,8069884,8304779.2
+1402,2007,Kharif     ,Banana,318,10457
+1403,2007,Kharif     ,Barley,560,146.8
+1404,2007,Kharif     ,Black pepper,12,7
+1405,2007,Kharif     ,Cardamom,200,100
+1406,2007,Kharif     ,Castor seed,712245,1045464.7
+1407,2007,Kharif     ,Cotton(lint),5685614,16393628
+1408,2007,Kharif     ,Dry chillies,323745,768739.5
+1409,2007,Kharif     ,Dry ginger,21975,86965.7
+1410,2007,Kharif     ,Garlic,3517,33805.3
+1411,2007,Kharif     ,Groundnut,4582842,6417209.5
+1412,2007,Kharif     ,Guar seed,2589,2170
+1413,2007,Kharif     ,Horse-gram,193335,89147
+1414,2007,Kharif     ,Jowar,2014137,2034842
+1415,2007,Kharif     ,Jute,808176,10157261
+1416,2007,Kharif     ,Maize,5798129,12436916
+1417,2007,Kharif     ,Masoor,607,352
+1418,2007,Kharif     ,Mesta,99028,844887
+1419,2007,Kharif     ,Moong(Green Gram),2168352,831812.1
+1420,2007,Kharif     ,Moth,1304312,423364
+1421,2007,Kharif     ,Niger seed,217116,55615
+1422,2007,Kharif     ,Onion,188799,1357652
+1423,2007,Kharif     ,Other Cereals & Millets,82753,88813.6
+1424,2007,Kharif     ,Other Kharif pulses,356284,207445.2
+1425,2007,Kharif     ,Peas & beans (Pulses),16939,25823.7
+1426,2007,Kharif     ,Potato,82223,430191.6
+1427,2007,Kharif     ,Ragi,1020186,1571921
+1428,2007,Kharif     ,Rapeseed &Mustard,3957,1795
+1429,2007,Kharif     ,Rice,22667351,53387854
+1430,2007,Kharif     ,Sannhamp,12110,28186.49
+1431,2007,Kharif     ,Sesamum,1008004,395829.7
+1432,2007,Kharif     ,Small millets,411281,201379
+1433,2007,Kharif     ,Soyabean,6242549,6697563
+1434,2007,Kharif     ,Sugarcane,2188076,125172687.3
+1435,2007,Kharif     ,Sunflower,647881,336604
+1436,2007,Kharif     ,Sweet potato,18424,248042
+1437,2007,Kharif     ,Tapioca,996,27313
+1438,2007,Kharif     ,Tea,1000,3450
+1439,2007,Kharif     ,Tobacco,6,2
+1440,2007,Kharif     ,Turmeric,264,544.3
+1441,2007,Kharif     ,Urad,1640841,726836.1
+1442,2007,Kharif     ,Wheat,20,2.4
+1443,2007,Kharif     ,other oilseeds,3780,881.8
+1444,2007,Rabi       ,Arhar/Tur,19074.63,27101
+1445,2007,Rabi       ,Bajra,14439,11506
+1446,2007,Rabi       ,Barley,603529,1198985.2
+1447,2007,Rabi       ,Coriander,5843,3312.1
+1448,2007,Rabi       ,Dry chillies,53274,140458
+1449,2007,Rabi       ,Garlic,4823,5937.4
+1450,2007,Rabi       ,Gram,6341748.22,4773076
+1451,2007,Rabi       ,Groundnut,480128,743099
+1452,2007,Rabi       ,Horse-gram,174940,84290
+1453,2007,Rabi       ,Jowar,1340130,1499688
+1454,2007,Rabi       ,Khesari,611583,692716
+1455,2007,Rabi       ,Linseed,262332,107155.6
+1456,2007,Rabi       ,Maize,582707,2970335
+1457,2007,Rabi       ,Masoor,1330336.09,805184.28
+1458,2007,Rabi       ,Moong(Green Gram),177977,61473
+1459,2007,Rabi       ,Onion,39734.96,532866.3
+1460,2007,Rabi       ,Other  Rabi pulses,417318,360688.2
+1461,2007,Rabi       ,Other Cereals & Millets,61929,80586.5
+1462,2007,Rabi       ,Peas & beans (Pulses),259462,142554
+1463,2007,Rabi       ,Potato,541218.02,11351888.7
+1464,2007,Rabi       ,Ragi,44762,68897
+1465,2007,Rabi       ,Rapeseed &Mustard,5491436.9,5531902.51
+1466,2007,Rabi       ,Rice,1459384,5250494
+1467,2007,Rabi       ,Safflower,74452,62679
+1468,2007,Rabi       ,Sesamum,31058,9101
+1469,2007,Rabi       ,Small millets,2285,2286
+1470,2007,Rabi       ,Sunflower,812731,617605
+1471,2007,Rabi       ,Sweet potato,1,1
+1472,2007,Rabi       ,Tapioca,6,245
+1473,2007,Rabi       ,Tobacco,24951,139600
+1474,2007,Rabi       ,Turmeric,1372,4205
+1475,2007,Rabi       ,Urad,475569,235796
+1476,2007,Rabi       ,Wheat,27019379.72,77589303
+1477,2007,Rabi       ,other oilseeds,41167,10725.4
+1478,2007,Summer     ,Bajra,194984,456479
+1479,2007,Summer     ,Cotton(lint),66,38
+1480,2007,Summer     ,Dry chillies,6062,20511
+1481,2007,Summer     ,Groundnut,249016,428370.3
+1482,2007,Summer     ,Horse-gram,152,41.9
+1483,2007,Summer     ,Jowar,6054,11874
+1484,2007,Summer     ,Maize,251770,816414.2
+1485,2007,Summer     ,Moong(Green Gram),352235,163323.4
+1486,2007,Summer     ,Onion,16422,197935
+1487,2007,Summer     ,Other  Rabi pulses,36,33
+1488,2007,Summer     ,Potato,2156,34500
+1489,2007,Summer     ,Ragi,8661,17437.1
+1490,2007,Summer     ,Rice,2728900,7994751
+1491,2007,Summer     ,Sesamum,214857,187829.1
+1492,2007,Summer     ,Sunflower,61772,70879
+1493,2007,Summer     ,Tobacco,496,1233
+1494,2007,Summer     ,Urad,62982,32950.4
+1495,2007,Summer     ,Wheat,5548,8722.5
+1496,2007,Whole Year ,Arecanut,357367,1318447
+1497,2007,Whole Year ,Arhar/Tur,30057,21077
+1498,2007,Whole Year ,Bajra,59798,85840
+1499,2007,Whole Year ,Banana,334836,10232977
+1500,2007,Whole Year ,Black pepper,198617,99743
+1501,2007,Whole Year ,Cardamom,65354,11910
+1502,2007,Whole Year ,Cashewnut,215302,132249
+1503,2007,Whole Year ,Castor seed,5184,1624
+1504,2007,Whole Year ,Coconut ,1682671,6299914140
+1505,2007,Whole Year ,Coriander,376136,221680
+1506,2007,Whole Year ,Cotton(lint),502364,905544
+1507,2007,Whole Year ,Dry chillies,195811,205777
+1508,2007,Whole Year ,Dry ginger,49685,519412
+1509,2007,Whole Year ,Garlic,145623,769027
+1510,2007,Whole Year ,Gram,6800,4587
+1511,2007,Whole Year ,Groundnut,535211,1047586
+1512,2007,Whole Year ,Guar seed,3105594,1373689
+1513,2007,Whole Year ,Horse-gram,48448,21339
+1514,2007,Whole Year ,Jowar,283526,247836
+1515,2007,Whole Year ,Maize,223428,810057
+1516,2007,Whole Year ,Mesta,1861,2387
+1517,2007,Whole Year ,Moong(Green Gram),158691,46213
+1518,2007,Whole Year ,Oilseeds total,30749,28568
+1519,2007,Whole Year ,Onion,211728,3590059
+1520,2007,Whole Year ,Potato,789895,14575003
+1521,2007,Whole Year ,Ragi,93701,175944
+1522,2007,Whole Year ,Rapeseed &Mustard,275,781
+1523,2007,Whole Year ,Sannhamp,3285,5630
+1524,2007,Whole Year ,Sesamum,383431,148763
+1525,2007,Whole Year ,Small millets,41276,38101
+1526,2007,Whole Year ,Sugarcane,1649728.83,127819790
+1527,2007,Whole Year ,Sunflower,44792,71935
+1528,2007,Whole Year ,Sweet potato,24186,165029
+1529,2007,Whole Year ,Tapioca,227465,8487362
+1530,2007,Whole Year ,Tobacco,311804,351802
+1531,2007,Whole Year ,Turmeric,77640,309754
+1532,2007,Whole Year ,Urad,307515,79980
+1533,2007,Winter     ,Gram,200,100
+1534,2007,Winter     ,Groundnut,2094,2406
+1535,2007,Winter     ,Horse-gram,71956,21084.6
+1536,2007,Winter     ,Maize,6505,17794.8
+1537,2007,Winter     ,Moong(Green Gram),86079,18184.5
+1538,2007,Winter     ,Potato,28821.19,253415.8
+1539,2007,Winter     ,Ragi,40826,28990.8
+1540,2007,Winter     ,Rapeseed &Mustard,15884,3231.4
+1541,2007,Winter     ,Rice,12975060.14,23016373.66
+1542,2007,Winter     ,Sesamum,31200,6869.7
+1543,2007,Winter     ,Sugarcane,19819,1069227.4
+1544,2007,Winter     ,Urad,106962,35297.4
+1545,2007,Winter     ,Wheat,600,1100
+1546,2008,Autumn     ,Groundnut,32265,31406.5
+1547,2008,Autumn     ,Jute,2429,19892
+1548,2008,Autumn     ,Maize,346297,599045.3
+1549,2008,Autumn     ,Moong(Green Gram),22676,5299.3
+1550,2008,Autumn     ,Ragi,37823,31242.7
+1551,2008,Autumn     ,Rice,2008916,2676070
+1552,2008,Autumn     ,Sesamum,4693,1255.4
+1553,2008,Autumn     ,Urad,28830,6822.3
+1554,2008,Kharif     ,Arecanut,61,79
+1555,2008,Kharif     ,Arhar/Tur,3081624,2044463
+1556,2008,Kharif     ,Bajra,8532877,8380965
+1557,2008,Kharif     ,Banana,285,10524
+1558,2008,Kharif     ,Black pepper,12,8
+1559,2008,Kharif     ,Cardamom,800,150
+1560,2008,Kharif     ,Cashewnut,174,173
+1561,2008,Kharif     ,Castor seed,775155,1152848
+1562,2008,Kharif     ,Coconut ,77,1428
+1563,2008,Kharif     ,Cotton(lint),8813840,19769413
+1564,2008,Kharif     ,Dry chillies,287257,735724
+1565,2008,Kharif     ,Dry ginger,25757,117627
+1566,2008,Kharif     ,Groundnut,4907417,4334646
+1567,2008,Kharif     ,Guar seed,2739,2288
+1568,2008,Kharif     ,Horse-gram,184686,77609
+1569,2008,Kharif     ,Jowar,2682747,2800223
+1570,2008,Kharif     ,Jute,783199,9617614
+1571,2008,Kharif     ,Maize,5827861,11839866
+1572,2008,Kharif     ,Mesta,75578,607340
+1573,2008,Kharif     ,Moong(Green Gram),2020910,717851
+1574,2008,Kharif     ,Moth,1271309,338555
+1575,2008,Kharif     ,Niger seed,259498,67549
+1576,2008,Kharif     ,Onion,144545,1050814
+1577,2008,Kharif     ,Other Cereals & Millets,83533,90791
+1578,2008,Kharif     ,Other Kharif pulses,311119,202346
+1579,2008,Kharif     ,Peas & beans (Pulses),3027,4106
+1580,2008,Kharif     ,Potato,147608,774295
+1581,2008,Kharif     ,Ragi,1133857,1546873
+1582,2008,Kharif     ,Rice,24825757,55789219.07
+1583,2008,Kharif     ,Sannhamp,11648,23532.67
+1584,2008,Kharif     ,Sesamum,1168871,352541
+1585,2008,Kharif     ,Small millets,335416,138219
+1586,2008,Kharif     ,Soyabean,9581407,8991049
+1587,2008,Kharif     ,Sugarcane,2861182,170097721
+1588,2008,Kharif     ,Sunflower,567965,269438
+1589,2008,Kharif     ,Sweet potato,20813,258752
+1590,2008,Kharif     ,Tapioca,1965,46046
+1591,2008,Kharif     ,Tobacco,49200,70100
+1592,2008,Kharif     ,Turmeric,1008,3710
+1593,2008,Kharif     ,Urad,1815820,770563
+1594,2008,Kharif     ,other oilseeds,3167,2399
+1595,2008,Rabi       ,Arhar/Tur,4117,2841.1
+1596,2008,Rabi       ,Bajra,9628,9204
+1597,2008,Rabi       ,Barley,685198,1672582.2
+1598,2008,Rabi       ,Black pepper,884,462
+1599,2008,Rabi       ,Blackgram,39723,23058
+1600,2008,Rabi       ,Coriander,5800,3757
+1601,2008,Rabi       ,Dry chillies,49251,167974
+1602,2008,Rabi       ,Garlic,38061,198613
+1603,2008,Rabi       ,Gram,7811391,6998564.2
+1604,2008,Rabi       ,Groundnut,440390,678267
+1605,2008,Rabi       ,Horse-gram,160874,61294
+1606,2008,Rabi       ,Jowar,4326886,3576802
+1607,2008,Rabi       ,Khesari,564069,347476
+1608,2008,Rabi       ,Linseed,287992,122852.1
+1609,2008,Rabi       ,Maize,691972,3736348
+1610,2008,Rabi       ,Masoor,1350829,940467
+1611,2008,Rabi       ,Moong(Green Gram),135386,51691
+1612,2008,Rabi       ,Onion,92879,2006042.5
+1613,2008,Rabi       ,Other  Rabi pulses,74654,48181.4
+1614,2008,Rabi       ,Other Cereals & Millets,38438,47239
+1615,2008,Rabi       ,Peas & beans (Pulses),669431,628716.3
+1616,2008,Rabi       ,Potato,649015,11563675.7
+1617,2008,Rabi       ,Ragi,40424,57579
+1618,2008,Rabi       ,Rapeseed &Mustard,5896643,6912105.5
+1619,2008,Rabi       ,Rice,1652247,6018175
+1620,2008,Rabi       ,Safflower,273426,172759
+1621,2008,Rabi       ,Sesamum,36021,9888
+1622,2008,Rabi       ,Small millets,2145,2315
+1623,2008,Rabi       ,Sunflower,692557,318259
+1624,2008,Rabi       ,Sweet potato,1325,19475
+1625,2008,Rabi       ,Tapioca,1,29
+1626,2008,Rabi       ,Tobacco,22573,134309
+1627,2008,Rabi       ,Turmeric,3,5
+1628,2008,Rabi       ,Urad,337796,217607.8
+1629,2008,Rabi       ,Wheat,27766239,81581861
+1630,2008,Rabi       ,other oilseeds,102961,37559.7
+1631,2008,Summer     ,Bajra,175705,427391
+1632,2008,Summer     ,Banana,1991,75867
+1633,2008,Summer     ,Cotton(lint),48,39
+1634,2008,Summer     ,Dry chillies,7226,23702
+1635,2008,Summer     ,Groundnut,213095,360189.4
+1636,2008,Summer     ,Horse-gram,94,24.5
+1637,2008,Summer     ,Jowar,4882,11110
+1638,2008,Summer     ,Maize,280871,901407.2
+1639,2008,Summer     ,Moong(Green Gram),334986,176943.8
+1640,2008,Summer     ,Onion,3775,20587
+1641,2008,Summer     ,Other  Rabi pulses,6,6
+1642,2008,Summer     ,Potato,1907,30684
+1643,2008,Summer     ,Ragi,9273,18078.2
+1644,2008,Summer     ,Rice,2823546,7523635
+1645,2008,Summer     ,Sesamum,206405,133417.1
+1646,2008,Summer     ,Sunflower,51307,50669
+1647,2008,Summer     ,Tobacco,546,1240
+1648,2008,Summer     ,Urad,64801,37544.5
+1649,2008,Summer     ,Wheat,5267,7385
+1650,2008,Whole Year ,Arecanut,378076,1414380
+1651,2008,Whole Year ,Arhar/Tur,27483,17417
+1652,2008,Whole Year ,Bajra,56672,84735
+1653,2008,Whole Year ,Banana,374111,11128752
+1654,2008,Whole Year ,Black pepper,177677,115235
+1655,2008,Whole Year ,Cardamom,65722,13401
+1656,2008,Whole Year ,Cashewnut,364613,178233.22
+1657,2008,Whole Year ,Castor seed,5523,3130
+1658,2008,Whole Year ,Coconut ,1752371,7039784224
+1659,2008,Whole Year ,Coriander,445018,362793
+1660,2008,Whole Year ,Cotton(lint),523540,1013458
+1661,2008,Whole Year ,Dry chillies,184122,195501
+1662,2008,Whole Year ,Dry ginger,61398,1049449
+1663,2008,Whole Year ,Garlic,118269,561497
+1664,2008,Whole Year ,Gram,6852,4712
+1665,2008,Whole Year ,Groundnut,489844,975482
+1666,2008,Whole Year ,Guar seed,3468584,1313767
+1667,2008,Whole Year ,Horse-gram,44749,21766
+1668,2008,Whole Year ,Jowar,258876,214150
+1669,2008,Whole Year ,Maize,286639,1258596
+1670,2008,Whole Year ,Mesta,1146,1617
+1671,2008,Whole Year ,Moong(Green Gram),138598,32407
+1672,2008,Whole Year ,Oilseeds total,31785,31016
+1673,2008,Whole Year ,Onion,140984,1458144
+1674,2008,Whole Year ,Potato,628828,7134954
+1675,2008,Whole Year ,Ragi,90079,170658
+1676,2008,Whole Year ,Rapeseed &Mustard,257,63
+1677,2008,Whole Year ,Sannhamp,3088,6112
+1678,2008,Whole Year ,Sesamum,307497,134021
+1679,2008,Whole Year ,Small millets,327390,109798
+1680,2008,Whole Year ,Sugarcane,2210135,170440148
+1681,2008,Whole Year ,Sunflower,444294,361252
+1682,2008,Whole Year ,Sweet potato,23538,133626
+1683,2008,Whole Year ,Tapioca,236411,7498873
+1684,2008,Whole Year ,Tobacco,300052,397657
+1685,2008,Whole Year ,Turmeric,145174,714980
+1686,2008,Whole Year ,Urad,263671,83697
+1687,2008,Winter     ,Gram,200,100
+1688,2008,Winter     ,Groundnut,2065,2285.7
+1689,2008,Winter     ,Horse-gram,58696,16089.3
+1690,2008,Winter     ,Maize,307,675.3
+1691,2008,Winter     ,Moong(Green Gram),85557,18852
+1692,2008,Winter     ,Potato,7315,75575.8
+1693,2008,Winter     ,Ragi,39333,23438.3
+1694,2008,Winter     ,Rapeseed &Mustard,13736,2525.2
+1695,2008,Winter     ,Rice,12287521,23254887
+1696,2008,Winter     ,Sesamum,29564,6054.2
+1697,2008,Winter     ,Sugarcane,10763,646243.7
+1698,2008,Winter     ,Urad,90687,26669
+1699,2008,Winter     ,Wheat,600,1100
+1700,2009,Autumn     ,Groundnut,32789,30760.2
+1701,2009,Autumn     ,Jute,2935,30368
+1702,2009,Autumn     ,Maize,349932,650430.3
+1703,2009,Autumn     ,Moong(Green Gram),21731,4951.1
+1704,2009,Autumn     ,Ragi,33630,27616
+1705,2009,Autumn     ,Rice,1877591,2124947
+1706,2009,Autumn     ,Sesamum,5601,1451.2
+1707,2009,Autumn     ,Urad,29523,6512.4
+1708,2009,Kharif     ,Arecanut,61,77
+1709,2009,Kharif     ,Arhar/Tur,2844516,1943902
+1710,2009,Kharif     ,Bajra,8533034,5736162
+1711,2009,Kharif     ,Banana,7087,89193
+1712,2009,Kharif     ,Black pepper,12,8
+1713,2009,Kharif     ,Cashewnut,171,146
+1714,2009,Kharif     ,Castor seed,727626,998635
+1715,2009,Kharif     ,Cotton(lint),8800618,19837908
+1716,2009,Kharif     ,Cowpea(Lobia),2992,1428
+1717,2009,Kharif     ,Dry chillies,171398,653121
+1718,2009,Kharif     ,Dry ginger,10274,56840
+1719,2009,Kharif     ,Gram,114622,60384
+1720,2009,Kharif     ,Groundnut,4103929,3049061
+1721,2009,Kharif     ,Guar seed,2757,2288
+1722,2009,Kharif     ,Horse-gram,226768,111134
+1723,2009,Kharif     ,Jowar,3059145,2568879
+1724,2009,Kharif     ,Jute,810620,11227499
+1725,2009,Kharif     ,Maize,4942083,8566207
+1726,2009,Kharif     ,Mesta,58815,444157
+1727,2009,Kharif     ,Moong(Green Gram),2243877,370161
+1728,2009,Kharif     ,Moth,1324793,49149
+1729,2009,Kharif     ,Niger seed,146378,36887
+1730,2009,Kharif     ,Onion,197265,990256
+1731,2009,Kharif     ,Other Cereals & Millets,30293,17536
+1732,2009,Kharif     ,Other Kharif pulses,300488,140227
+1733,2009,Kharif     ,Peas & beans (Pulses),2050,2250
+1734,2009,Kharif     ,Potato,41806,310432
+1735,2009,Kharif     ,Ragi,1039818,1454521
+1736,2009,Kharif     ,Rice,21177804,49626072.31
+1737,2009,Kharif     ,Sannhamp,4551,7644
+1738,2009,Kharif     ,Sesamum,1381507,295950
+1739,2009,Kharif     ,Small millets,660585,261705
+1740,2009,Kharif     ,Soyabean,4265620,3451892
+1741,2009,Kharif     ,Sugarcane,2740099,181699353
+1742,2009,Kharif     ,Sunflower,478656,157826
+1743,2009,Kharif     ,Sweet potato,21157,242319
+1744,2009,Kharif     ,Tapioca,7186,56368
+1745,2009,Kharif     ,Tobacco,62800,101500
+1746,2009,Kharif     ,Turmeric,3,357
+1747,2009,Kharif     ,Urad,2017471,720922
+1748,2009,Kharif     ,other oilseeds,2924,3165
+1749,2009,Rabi       ,Arhar/Tur,25650,13848
+1750,2009,Rabi       ,Bajra,12062,10022
+1751,2009,Rabi       ,Banana,44980,621747
+1752,2009,Rabi       ,Barley,490359,1213148
+1753,2009,Rabi       ,Coriander,6467,3673
+1754,2009,Rabi       ,Cowpea(Lobia),680,588
+1755,2009,Rabi       ,Dry chillies,56421,209961
+1756,2009,Rabi       ,Garlic,34465,183113
+1757,2009,Rabi       ,Gram,4144122,3597352
+1758,2009,Rabi       ,Groundnut,514997,817163
+1759,2009,Rabi       ,Horse-gram,156310,78561
+1760,2009,Rabi       ,Jowar,4484229,3771021
+1761,2009,Rabi       ,Khesari,434433,294517
+1762,2009,Rabi       ,Linseed,178916,81282
+1763,2009,Rabi       ,Maize,728871,2993160
+1764,2009,Rabi       ,Masoor,907297,737059
+1765,2009,Rabi       ,Moong(Green Gram),129361,52560
+1766,2009,Rabi       ,Onion,76417,1646760
+1767,2009,Rabi       ,Other  Rabi pulses,84621,58770
+1768,2009,Rabi       ,Other Cereals & Millets,19938,23458
+1769,2009,Rabi       ,Peas & beans (Pulses),395405,471426
+1770,2009,Rabi       ,Potato,939961,27449342
+1771,2009,Rabi       ,Ragi,33889,56686
+1772,2009,Rabi       ,Rapeseed &Mustard,3973783,4738191
+1773,2009,Rabi       ,Rice,1456623,5072761
+1774,2009,Rabi       ,Safflower,271734,167701
+1775,2009,Rabi       ,Sesamum,45804,12025
+1776,2009,Rabi       ,Small millets,3300,4531
+1777,2009,Rabi       ,Sunflower,543307,232944
+1778,2009,Rabi       ,Tapioca,3,44
+1779,2009,Rabi       ,Tobacco,86296,232579
+1780,2009,Rabi       ,Turmeric,1318,4351
+1781,2009,Rabi       ,Urad,416121,294234
+1782,2009,Rabi       ,Wheat,23310434,71322251
+1783,2009,Rabi       ,other oilseeds,99941,36444
+1784,2009,Summer     ,Bajra,174985,397169
+1785,2009,Summer     ,Banana,2336,96059
+1786,2009,Summer     ,Cotton(lint),10,8
+1787,2009,Summer     ,Dry chillies,6609,30419
+1788,2009,Summer     ,Groundnut,157220,266872.4
+1789,2009,Summer     ,Horse-gram,276,74.5
+1790,2009,Summer     ,Jowar,5973,8824
+1791,2009,Summer     ,Maize,294191,897347
+1792,2009,Summer     ,Moong(Green Gram),348816,144978.1
+1793,2009,Summer     ,Onion,16463,205074
+1794,2009,Summer     ,Other  Rabi pulses,1,1
+1795,2009,Summer     ,Potato,5343,76953
+1796,2009,Summer     ,Ragi,8226,15224.9
+1797,2009,Summer     ,Rice,2644186,7404763
+1798,2009,Summer     ,Sesamum,192975,154443.5
+1799,2009,Summer     ,Sunflower,35636,40160
+1800,2009,Summer     ,Tobacco,534,2283
+1801,2009,Summer     ,Urad,59566,34412.7
+1802,2009,Summer     ,Wheat,3994,5782.4
+1803,2009,Whole Year ,Arecanut,383402,1459092
+1804,2009,Whole Year ,Arhar/Tur,351428,273673
+1805,2009,Whole Year ,Bajra,252341,376872
+1806,2009,Whole Year ,Banana,362833,11245142
+1807,2009,Whole Year ,Barley,75065,97660
+1808,2009,Whole Year ,Black pepper,197842,122533
+1809,2009,Whole Year ,Cardamom,64421,11896
+1810,2009,Whole Year ,Cashewnut,350603,176079
+1811,2009,Whole Year ,Castor seed,6257,3430
+1812,2009,Whole Year ,Coconut ,1735991,7041992679
+1813,2009,Whole Year ,Coriander,446245,387078
+1814,2009,Whole Year ,Cotton(lint),1183987,1064433
+1815,2009,Whole Year ,Dry chillies,162247,167974
+1816,2009,Whole Year ,Dry ginger,87226,1660479
+1817,2009,Whole Year ,Garlic,100484,444990
+1818,2009,Whole Year ,Gram,3015164,3223172
+1819,2009,Whole Year ,Groundnut,620073,1145228
+1820,2009,Whole Year ,Guar seed,2719557,246182
+1821,2009,Whole Year ,Horse-gram,47231,22530
+1822,2009,Whole Year ,Jowar,238476,221960
+1823,2009,Whole Year ,Khesari,53778,40118
+1824,2009,Whole Year ,Linseed,106966,48920
+1825,2009,Whole Year ,Maize,1056615,2156946
+1826,2009,Whole Year ,Masoor,519238,272042
+1827,2009,Whole Year ,Mesta,2031,3193
+1828,2009,Whole Year ,Moong(Green Gram),138138,47673
+1829,2009,Whole Year ,Niger seed,95632,21058
+1830,2009,Whole Year ,Oilseeds total,121468,215842
+1831,2009,Whole Year ,Onion,142203,1497093
+1832,2009,Whole Year ,Peas & beans (Pulses),194056,90793
+1833,2009,Whole Year ,Potato,254466,2946885
+1834,2009,Whole Year ,Ragi,82717,161059
+1835,2009,Whole Year ,Rapeseed &Mustard,768981,805982
+1836,2009,Whole Year ,Rice,1593071,1355660
+1837,2009,Whole Year ,Safflower,409,122
+1838,2009,Whole Year ,Sannhamp,8030,6824
+1839,2009,Whole Year ,Sesamum,383217,169133
+1840,2009,Whole Year ,Soyabean,5439849,6419379
+1841,2009,Whole Year ,Sugarcane,1343027,105742087
+1842,2009,Whole Year ,Sunflower,364993,289512
+1843,2009,Whole Year ,Sweet potato,18717,106542
+1844,2009,Whole Year ,Tapioca,208892,6784742
+1845,2009,Whole Year ,Tobacco,349881,502537
+1846,2009,Whole Year ,Turmeric,129441,645150
+1847,2009,Whole Year ,Urad,259722,98712
+1848,2009,Whole Year ,Wheat,4458995,8865378
+1849,2009,Winter     ,Gram,100,100
+1850,2009,Winter     ,Groundnut,3685,4438.5
+1851,2009,Winter     ,Horse-gram,64317,19852.9
+1852,2009,Winter     ,Maize,211,301.7
+1853,2009,Winter     ,Moong(Green Gram),120690,27252.6
+1854,2009,Winter     ,Potato,7877,96996.8
+1855,2009,Winter     ,Ragi,36949,23729
+1856,2009,Winter     ,Rapeseed &Mustard,12841,2735.4
+1857,2009,Winter     ,Rice,11834422,21772852
+1858,2009,Winter     ,Sesamum,33075,8007
+1859,2009,Winter     ,Sugarcane,7968,489940.1
+1860,2009,Winter     ,Urad,93222,30268.8
+1861,2009,Winter     ,Wheat,700,1000
+1862,2010,Autumn     ,Groundnut,34243,32674.1
+1863,2010,Autumn     ,Jowar,25,10
+1864,2010,Autumn     ,Jute,3181,36337
+1865,2010,Autumn     ,Maize,378743,836841.5
+1866,2010,Autumn     ,Moong(Green Gram),25378,6479.2
+1867,2010,Autumn     ,Ragi,39277,33256.3
+1868,2010,Autumn     ,Rice,1804822.28,2052976.26
+1869,2010,Autumn     ,Sesamum,7411,1930.3
+1870,2010,Autumn     ,Sugarcane,154.23,1332.95
+1871,2010,Autumn     ,Urad,35912,8514
+1872,2010,Kharif     ,Arecanut,60,78
+1873,2010,Kharif     ,Arhar/Tur,4261187,2688271
+1874,2010,Kharif     ,Bajra,9207103,11311571
+1875,2010,Kharif     ,Banana,7061,86322
+1876,2010,Kharif     ,Black pepper,11,6
+1877,2010,Kharif     ,Cashewnut,173,131
+1878,2010,Kharif     ,Castor seed,889033,1377113
+1879,2010,Kharif     ,Coriander,3,1
+1880,2010,Kharif     ,Cotton(lint),10800593,27165147
+1881,2010,Kharif     ,Cowpea(Lobia),73023,37252
+1882,2010,Kharif     ,Dry chillies,265444,585298
+1883,2010,Kharif     ,Dry ginger,10602,59719
+1884,2010,Kharif     ,Garlic,3,4
+1885,2010,Kharif     ,Ginger,2082,15615
+1886,2010,Kharif     ,Groundnut,5030428,6840518
+1887,2010,Kharif     ,Guar seed,2441,2033
+1888,2010,Kharif     ,Horse-gram,235287,118335
+1889,2010,Kharif     ,Jowar,2862585,3251860
+1890,2010,Kharif     ,Jute,766337,9973773
+1891,2010,Kharif     ,Maize,6425121,15848320
+1892,2010,Kharif     ,Mango,213,2660
+1893,2010,Kharif     ,Mesta,61317,503456
+1894,2010,Kharif     ,Moong(Green Gram),2783582,1482141
+1895,2010,Kharif     ,Moth,1621712,789848
+1896,2010,Kharif     ,Niger seed,240962,58845
+1897,2010,Kharif     ,Onion,168766,1393303
+1898,2010,Kharif     ,Other Cereals & Millets,77860,86597
+1899,2010,Kharif     ,Other Kharif pulses,278997,186229
+1900,2010,Kharif     ,Peas & beans (Pulses),7262,40378
+1901,2010,Kharif     ,Potato,50429,417856
+1902,2010,Kharif     ,Ragi,1126714,1931133
+1903,2010,Kharif     ,Rice,24491074,57440268
+1904,2010,Kharif     ,Safflower,70,56
+1905,2010,Kharif     ,Sannhamp,2883,4656
+1906,2010,Kharif     ,Sesamum,1375176.81,490688.9
+1907,2010,Kharif     ,Small millets,549328,216417
+1908,2010,Kharif     ,Soyabean,9558319,12316413
+1909,2010,Kharif     ,Sugarcane,3095365,206698887
+1910,2010,Kharif     ,Sunflower,286402,160271
+1911,2010,Kharif     ,Sweet potato,20913,219882
+1912,2010,Kharif     ,Tapioca,6086,65366
+1913,2010,Kharif     ,Tobacco,59900,104500
+1914,2010,Kharif     ,Turmeric,4,6
+1915,2010,Kharif     ,Urad,2459760,1344038
+1916,2010,Kharif     ,other oilseeds,102431,37880
+1917,2010,Rabi       ,Arecanut,73099,74356
+1918,2010,Rabi       ,Arhar/Tur,28218,29101.6
+1919,2010,Rabi       ,Bajra,16148,17390
+1920,2010,Rabi       ,Banana,47628,653502
+1921,2010,Rabi       ,Barley,677806,1693660
+1922,2010,Rabi       ,Black pepper,600,120
+1923,2010,Rabi       ,Cashewnut,1100,310
+1924,2010,Rabi       ,Coriander,145,43
+1925,2010,Rabi       ,Cotton(lint),129125,155407
+1926,2010,Rabi       ,Cowpea(Lobia),27746,7669
+1927,2010,Rabi       ,Dry chillies,50465,165650
+1928,2010,Rabi       ,Dry ginger,211,1850
+1929,2010,Rabi       ,Garlic,1458,1601
+1930,2010,Rabi       ,Gram,8862496,7678923.16
+1931,2010,Rabi       ,Groundnut,477741.25,768379.4
+1932,2010,Rabi       ,Horse-gram,166195,94806
+1933,2010,Rabi       ,Jowar,4242216,3341057
+1934,2010,Rabi       ,Khesari,512130,357411
+1935,2010,Rabi       ,Linseed,257083,104071
+1936,2010,Rabi       ,Maize,932990.54,4251144.62
+1937,2010,Rabi       ,Masoor,1618613,902033
+1938,2010,Rabi       ,Moong(Green Gram),149533,58218.5
+1939,2010,Rabi       ,Onion,45905,665652
+1940,2010,Rabi       ,Other  Rabi pulses,69215,53051
+1941,2010,Rabi       ,Other Cereals & Millets,30707,37027
+1942,2010,Rabi       ,Peas & beans (Pulses),647651,531964
+1943,2010,Rabi       ,Potato,999020,27277001
+1944,2010,Rabi       ,Ragi,51143,79325
+1945,2010,Rabi       ,Rapeseed &Mustard,5466244,7522833.38
+1946,2010,Rabi       ,Rice,1936100,7198915
+1947,2010,Rabi       ,Safflower,242732,152686
+1948,2010,Rabi       ,Sesamum,46090,13189
+1949,2010,Rabi       ,Small millets,5333,4875
+1950,2010,Rabi       ,Sunflower,351265.9,214541.4
+1951,2010,Rabi       ,Sweet potato,163,923
+1952,2010,Rabi       ,Tapioca,3,57
+1953,2010,Rabi       ,Tobacco,114537,307926
+1954,2010,Rabi       ,Turmeric,1374,4548
+1955,2010,Rabi       ,Urad,463131,255325
+1956,2010,Rabi       ,Wheat,29834114,93038648
+1957,2010,Rabi       ,other oilseeds,1197959,486850
+1958,2010,Summer     ,Bajra,383995,942666
+1959,2010,Summer     ,Cotton(lint),5,5
+1960,2010,Summer     ,Dry chillies,7484,22763
+1961,2010,Summer     ,Groundnut,315974,546717.9
+1962,2010,Summer     ,Horse-gram,404,119.1
+1963,2010,Summer     ,Jowar,5446,11403
+1964,2010,Summer     ,Maize,319029,1128866.1
+1965,2010,Summer     ,Moong(Green Gram),469878,234986.4
+1966,2010,Summer     ,Onion,4680,49792
+1967,2010,Summer     ,Other  Rabi pulses,2,2
+1968,2010,Summer     ,Peas & beans (Pulses),1470,12493
+1969,2010,Summer     ,Potato,3877,51861
+1970,2010,Summer     ,Ragi,9011,17277.9
+1971,2010,Summer     ,Rice,2666967.63,8170994.59
+1972,2010,Summer     ,Sesamum,263570,207402.4
+1973,2010,Summer     ,Sunflower,26203,31082
+1974,2010,Summer     ,Urad,77251,46156
+1975,2010,Summer     ,Wheat,2857,4174
+1976,2010,Whole Year ,Arecanut,326147.5,2405015.51
+1977,2010,Whole Year ,Banana,264702.14,6713784.4
+1978,2010,Whole Year ,Black pepper,197172.55,63037.57
+1979,2010,Whole Year ,Cardamom,19081,2621
+1980,2010,Whole Year ,Cashewnut,254046.75,130255.53
+1981,2010,Whole Year ,Coconut ,1255481.13,5596200360
+1982,2010,Whole Year ,Coriander,401313,306468
+1983,2010,Whole Year ,Dry chillies,106944,187303
+1984,2010,Whole Year ,Dry ginger,90256.93,420151.36
+1985,2010,Whole Year ,Garlic,123423,556283
+1986,2010,Whole Year ,Ginger,2472,23054
+1987,2010,Whole Year ,Guar seed,3123746,1630344
+1988,2010,Whole Year ,Mesta,2277,3319
+1989,2010,Whole Year ,Oilseeds total,31854,29251
+1990,2010,Whole Year ,Onion,192222,3388793
+1991,2010,Whole Year ,Potato,279412,3273902
+1992,2010,Whole Year ,Sannhamp,6178,14864
+1993,2010,Whole Year ,Sesamum,360426,178047
+1994,2010,Whole Year ,Sugarcane,1686087.91,128899408.6
+1995,2010,Whole Year ,Sunflower,225361,156170
+1996,2010,Whole Year ,Sweet potato,17188,85500
+1997,2010,Whole Year ,Tapioca,90479.1,2525431.66
+1998,2010,Whole Year ,Tobacco,307670,458069
+1999,2010,Whole Year ,Turmeric,105453.78,570806.39
+2000,2010,Winter     ,Arhar/Tur,160,130
+2001,2010,Winter     ,Gram,330,330
+2002,2010,Winter     ,Groundnut,3074,3603.5
+2003,2010,Winter     ,Horse-gram,69005,22090.7
+2004,2010,Winter     ,Maize,740,1528
+2005,2010,Winter     ,Moong(Green Gram),78502,17378.6
+2006,2010,Winter     ,Potato,6528,76205.6
+2007,2010,Winter     ,Ragi,38276,27206.6
+2008,2010,Winter     ,Rapeseed &Mustard,15925,3343.3
+2009,2010,Winter     ,Rice,10867936.59,20314124.25
+2010,2010,Winter     ,Sannhamp,160,112
+2011,2010,Winter     ,Sesamum,38929,9123.7
+2012,2010,Winter     ,Sugarcane,13552,935497.3
+2013,2010,Winter     ,Urad,89773,28131.8
+2014,2010,Winter     ,Wheat,130,290
+2015,2011,Autumn     ,Groundnut,29262,23823.1
+2016,2011,Autumn     ,Jute,3910,32084
+2017,2011,Autumn     ,Maize,396702,901743.2
+2018,2011,Autumn     ,Moong(Green Gram),24786,5252.3
+2019,2011,Autumn     ,Paddy,276486,338015
+2020,2011,Autumn     ,Ragi,28651,21111.3
+2021,2011,Autumn     ,Rice,1696593.83,2356588.07
+2022,2011,Autumn     ,Sesamum,5461,1283.2
+2023,2011,Autumn     ,Urad,29714,6031.5
+2024,2011,Kharif     ,Arecanut,60,77
+2025,2011,Kharif     ,Arhar/Tur,3712533,2417296
+2026,2011,Kharif     ,Bajra,3289310,4918830
+2027,2011,Kharif     ,Banana,7185,85388
+2028,2011,Kharif     ,Barley,76885,128552
+2029,2011,Kharif     ,Black pepper,11,5
+2030,2011,Kharif     ,Brinjal,29,428
+2031,2011,Kharif     ,Cashewnut,159,50
+2032,2011,Kharif     ,Castor seed,1161627,1877279
+2033,2011,Kharif     ,Cotton(lint),11584943,27239020
+2034,2011,Kharif     ,Cowpea(Lobia),72807,37435
+2035,2011,Kharif     ,Dry chillies,302516,713839
+2036,2011,Kharif     ,Dry ginger,10372,61351
+2037,2011,Kharif     ,Ginger,3150,28720
+2038,2011,Kharif     ,Groundnut,3873190,4292730
+2039,2011,Kharif     ,Guar seed,53352,44924
+2040,2011,Kharif     ,Horse-gram,158701,75586
+2041,2011,Kharif     ,Jowar,2000527,2786738
+2042,2011,Kharif     ,Jute,802129,10706779
+2043,2011,Kharif     ,Maize,5093365,12203353
+2044,2011,Kharif     ,Mango,206,401
+2045,2011,Kharif     ,Mesta,64069,571117
+2046,2011,Kharif     ,Moong(Green Gram),1286361,605067
+2047,2011,Kharif     ,Moth,48183,25444
+2048,2011,Kharif     ,Niger seed,230185,54825
+2049,2011,Kharif     ,Onion,176153,1228879
+2050,2011,Kharif     ,Orange,14938,172501
+2051,2011,Kharif     ,Other Cereals & Millets,16000,9857
+2052,2011,Kharif     ,Other Kharif pulses,230457,144306
+2053,2011,Kharif     ,Papaya,7321,145451
+2054,2011,Kharif     ,Peas & beans (Pulses),5779,34712
+2055,2011,Kharif     ,Potato,40338,343501
+2056,2011,Kharif     ,Ragi,1023202,1624293
+2057,2011,Kharif     ,Rice,24658673,62129437
+2058,2011,Kharif     ,Safflower,282,227
+2059,2011,Kharif     ,Sannhamp,6215,11188
+2060,2011,Kharif     ,Sesamum,749810.56,252993.05
+2061,2011,Kharif     ,Small millets,575095,273786
+2062,2011,Kharif     ,Soyabean,9306315,11051812
+2063,2011,Kharif     ,Sugarcane,2168643,129293198
+2064,2011,Kharif     ,Sunflower,245997,118135
+2065,2011,Kharif     ,Sweet potato,22709,249442
+2066,2011,Kharif     ,Tapioca,10033,96601
+2067,2011,Kharif     ,Tobacco,62941,117686
+2068,2011,Kharif     ,Turmeric,2,3
+2069,2011,Kharif     ,Urad,1916880,987264
+2070,2011,Kharif     ,Wheat,26,1428
+2071,2011,Kharif     ,other oilseeds,49216,1050821
+2072,2011,Rabi       ,Arecanut,68699,60075
+2073,2011,Rabi       ,Arhar/Tur,4089,1952
+2074,2011,Rabi       ,Bajra,27925,58645
+2075,2011,Rabi       ,Barley,248663,652218
+2076,2011,Rabi       ,Black pepper,3647,5198
+2077,2011,Rabi       ,Blackgram,680,450
+2078,2011,Rabi       ,Brinjal,9,89
+2079,2011,Rabi       ,Coriander,6511,3603
+2080,2011,Rabi       ,Cotton(lint),100245,130081
+2081,2011,Rabi       ,Cowpea(Lobia),35861,19566
+2082,2011,Rabi       ,Dry chillies,73314,200932
+2083,2011,Rabi       ,Garlic,34427,177919
+2084,2011,Rabi       ,Ginger,16338,121369
+2085,2011,Rabi       ,Gram,6326454,5997684
+2086,2011,Rabi       ,Groundnut,565951,1138949
+2087,2011,Rabi       ,Horse-gram,140551,69198
+2088,2011,Rabi       ,Jowar,3563429,2512200
+2089,2011,Rabi       ,Khesari,499465,365993
+2090,2011,Rabi       ,Linseed,238100,115920
+2091,2011,Rabi       ,Maize,1046893,4935769
+2092,2011,Rabi       ,Masoor,1453770,974870
+2093,2011,Rabi       ,Moong(Green Gram),163398,95027
+2094,2011,Rabi       ,Onion,106138,2676606
+2095,2011,Rabi       ,Other  Rabi pulses,181354,94270
+2096,2011,Rabi       ,Other Cereals & Millets,53777,54012
+2097,2011,Rabi       ,Other Kharif pulses,20,20
+2098,2011,Rabi       ,Peas & beans (Pulses),667076,657758
+2099,2011,Rabi       ,Pineapple,14158,223624
+2100,2011,Rabi       ,Potato,962816,22262024
+2101,2011,Rabi       ,Ragi,53199,103813
+2102,2011,Rabi       ,Rapeseed &Mustard,2960535,3368853
+2103,2011,Rabi       ,Rice,1307120,4549956
+2104,2011,Rabi       ,Safflower,197124,113541
+2105,2011,Rabi       ,Sesamum,42521,13832
+2106,2011,Rabi       ,Small millets,4631,3990
+2107,2011,Rabi       ,Sunflower,245235,123504
+2108,2011,Rabi       ,Sweet potato,6558,25769
+2109,2011,Rabi       ,Tapioca,1,24
+2110,2011,Rabi       ,Tobacco,119681,284786
+2111,2011,Rabi       ,Turmeric,1832,5155
+2112,2011,Rabi       ,Urad,559229,373752
+2113,2011,Rabi       ,Wheat,26469500,91782163
+2114,2011,Rabi       ,other oilseeds,7747,5312
+2115,2011,Summer     ,Bajra,435713,1098079
+2116,2011,Summer     ,Banana,2175,95023
+2117,2011,Summer     ,Brinjal,14,177
+2118,2011,Summer     ,Cotton(lint),8,8
+2119,2011,Summer     ,Dry chillies,5663,19830
+2120,2011,Summer     ,Groundnut,406737,749988.6
+2121,2011,Summer     ,Horse-gram,90,27.4
+2122,2011,Summer     ,Jowar,10518,19244
+2123,2011,Summer     ,Maize,351015,1271462.8
+2124,2011,Summer     ,Moong(Green Gram),416722,212272.8
+2125,2011,Summer     ,Onion,25910,422922
+2126,2011,Summer     ,Paddy,393620,1080072
+2127,2011,Summer     ,Peas & beans (Pulses),1345,12183
+2128,2011,Summer     ,Potato,3192,40339
+2129,2011,Summer     ,Ragi,7732,14755.4
+2130,2011,Summer     ,Rice,2400705.01,7353944.94
+2131,2011,Summer     ,Sesamum,256250,202123
+2132,2011,Summer     ,Sunflower,27644,30149
+2133,2011,Summer     ,Tobacco,405,1251
+2134,2011,Summer     ,Urad,61998,39106.5
+2135,2011,Summer     ,Wheat,1461,2396.7
+2136,2011,Whole Year ,Arecanut,343235.36,1910527.34
+2137,2011,Whole Year ,Arhar/Tur,35968,31292
+2138,2011,Whole Year ,Banana,387564.4,12469372.59
+2139,2011,Whole Year ,Black pepper,111714.38,46069.34
+2140,2011,Whole Year ,Cardamom,32194,4127
+2141,2011,Whole Year ,Cashewnut,360845.21,167472.69
+2142,2011,Whole Year ,Castor seed,6202,2575
+2143,2011,Whole Year ,Coconut ,1810864.94,13594220064
+2144,2011,Whole Year ,Coriander,188506,86238
+2145,2011,Whole Year ,Dry chillies,132921,138776
+2146,2011,Whole Year ,Dry ginger,58155.59,226684.36
+2147,2011,Whole Year ,Garlic,125266,612950
+2148,2011,Whole Year ,Ginger,1907,20910
+2149,2011,Whole Year ,Gram,8592,6234
+2150,2011,Whole Year ,Guar seed,128300,74500
+2151,2011,Whole Year ,Horse-gram,68968,37181
+2152,2011,Whole Year ,Mesta,825,1028
+2153,2011,Whole Year ,Moong(Green Gram),164069,85118
+2154,2011,Whole Year ,Oilseeds total,32500,33000
+2155,2011,Whole Year ,Onion,119435,1738663
+2156,2011,Whole Year ,Potato,305035,4130332
+2157,2011,Whole Year ,Sannhamp,1440,3236
+2158,2011,Whole Year ,Sesamum,328209,172339
+2159,2011,Whole Year ,Small millets,30150,36407
+2160,2011,Whole Year ,Sugarcane,2513085.41,215169003.2
+2161,2011,Whole Year ,Sunflower,171200,148572
+2162,2011,Whole Year ,Sweet potato,11100,86965
+2163,2011,Whole Year ,Tapioca,193500.84,6652179.64
+2164,2011,Whole Year ,Tobacco,277397,421415
+2165,2011,Whole Year ,Turmeric,198584.45,1053985.54
+2166,2011,Whole Year ,Urad,308263,178816
+2167,2011,Whole Year ,other oilseeds,69600,38100
+2168,2011,Winter     ,Arhar/Tur,302,246
+2169,2011,Winter     ,Gram,138,138
+2170,2011,Winter     ,Groundnut,2140,2273.6
+2171,2011,Winter     ,Horse-gram,44164,10667.9
+2172,2011,Winter     ,Maize,212,262.4
+2173,2011,Winter     ,Moong(Green Gram),41861,8495.3
+2174,2011,Winter     ,Niger seed,31844,4768.9
+2175,2011,Winter     ,Paddy,1875601,3297591
+2176,2011,Winter     ,Potato,5779,63006.1
+2177,2011,Winter     ,Ragi,34666,17959.4
+2178,2011,Winter     ,Rapeseed &Mustard,10335,2192.2
+2179,2011,Winter     ,Rice,11948801.9,25704328.47
+2180,2011,Winter     ,Sannhamp,124,90
+2181,2011,Winter     ,Sesamum,17874,3222.8
+2182,2011,Winter     ,Sugarcane,15164,937913.1
+2183,2011,Winter     ,Urad,76386,21972.4
+2184,2011,Winter     ,Wheat,137,274
+2185,2012,Autumn     ,Groundnut,27074,28209.9
+2186,2012,Autumn     ,Jowar,26,10
+2187,2012,Autumn     ,Jute,1776,3112.1
+2188,2012,Autumn     ,Maize,392199,1240071.3
+2189,2012,Autumn     ,Moong(Green Gram),21882,6000.2
+2190,2012,Autumn     ,Paddy,238178,308745
+2191,2012,Autumn     ,Ragi,27597,23664.3
+2192,2012,Autumn     ,Rice,1640916,2936985
+2193,2012,Autumn     ,Sesamum,4442,1297.1
+2194,2012,Autumn     ,Small millets,1057,763
+2195,2012,Autumn     ,Urad,27091,7939.1
+2196,2012,Kharif     ,Arecanut,581,365
+2197,2012,Kharif     ,Arhar/Tur,3215820,2619248
+2198,2012,Kharif     ,Bajra,2964023,4176107
+2199,2012,Kharif     ,Banana,7257,95514
+2200,2012,Kharif     ,Barley,80682,108598
+2201,2012,Kharif     ,Brinjal,8829,112041
+2202,2012,Kharif     ,Cabbage,736,15653
+2203,2012,Kharif     ,Cashewnut,121926,33100
+2204,2012,Kharif     ,Castor seed,901749,1559108.53
+2205,2012,Kharif     ,Coriander,1109,717
+2206,2012,Kharif     ,Cotton(lint),9473397,19686223
+2207,2012,Kharif     ,Cowpea(Lobia),67999,18647
+2208,2012,Kharif     ,Dry chillies,167566,448374
+2209,2012,Kharif     ,Dry ginger,11178,67830
+2210,2012,Kharif     ,Ginger,3370,30730
+2211,2012,Kharif     ,Gram,18,20
+2212,2012,Kharif     ,Grapes,270,8188
+2213,2012,Kharif     ,Groundnut,3596176,2898168
+2214,2012,Kharif     ,Guar seed,23538,22485
+2215,2012,Kharif     ,Horse-gram,215253,94989
+2216,2012,Kharif     ,Jowar,1664360,2413138
+2217,2012,Kharif     ,Jute,775067,9131021
+2218,2012,Kharif     ,Lemon,23602,177221
+2219,2012,Kharif     ,Linseed,422,203
+2220,2012,Kharif     ,Maize,4620577,11228989
+2221,2012,Kharif     ,Mango,238001,1965179
+2222,2012,Kharif     ,Mesta,51755,309861
+2223,2012,Kharif     ,Moong(Green Gram),969365,409796
+2224,2012,Kharif     ,Moth,14711,5630
+2225,2012,Kharif     ,Niger seed,206886,58749
+2226,2012,Kharif     ,Onion,88930,764213
+2227,2012,Kharif     ,Orange,16449,179637
+2228,2012,Kharif     ,Other Cereals & Millets,12600,6300
+2229,2012,Kharif     ,Other Kharif pulses,195429,113939
+2230,2012,Kharif     ,Paddy,3559,17454
+2231,2012,Kharif     ,Papaya,13279,748387
+2232,2012,Kharif     ,Peas & beans (Pulses),2360,3100
+2233,2012,Kharif     ,Pome Granet,1441,19843
+2234,2012,Kharif     ,Potato,37535,258643
+2235,2012,Kharif     ,Ragi,980593,1414677
+2236,2012,Kharif     ,Rapeseed &Mustard,2201,1007
+2237,2012,Kharif     ,Rice,22813673,57797081
+2238,2012,Kharif     ,Sannhamp,7420,11762
+2239,2012,Kharif     ,Sapota,9192,121345
+2240,2012,Kharif     ,Sesamum,620001,161132
+2241,2012,Kharif     ,Small millets,526571,287581
+2242,2012,Kharif     ,Soyabean,9608729,13516954
+2243,2012,Kharif     ,Sugarcane,2373097,150389531
+2244,2012,Kharif     ,Sunflower,288127,164729
+2245,2012,Kharif     ,Sweet potato,22691,245164
+2246,2012,Kharif     ,Tapioca,22619,319136
+2247,2012,Kharif     ,Tobacco,50615,96287
+2248,2012,Kharif     ,Tomato,23068,376629
+2249,2012,Kharif     ,Turmeric,18006,151392
+2250,2012,Kharif     ,Urad,2112588,1121374
+2251,2012,Kharif     ,other oilseeds,96,383
+2252,2012,Rabi       ,Arecanut,67327,88999
+2253,2012,Rabi       ,Arhar/Tur,3598,4179
+2254,2012,Rabi       ,Bajra,2581,3881
+2255,2012,Rabi       ,Barley,266497,712281
+2256,2012,Rabi       ,Black pepper,3531,5541
+2257,2012,Rabi       ,Blackgram,730,580
+2258,2012,Rabi       ,Brinjal,6053,76858
+2259,2012,Rabi       ,Cabbage,723,14114
+2260,2012,Rabi       ,Castor seed,5459,5140
+2261,2012,Rabi       ,Coriander,14204,8148
+2262,2012,Rabi       ,Cotton(lint),55413,79116
+2263,2012,Rabi       ,Cowpea(Lobia),15733,10829
+2264,2012,Rabi       ,Dry chillies,43229,100556
+2265,2012,Rabi       ,Dry ginger,1,8
+2266,2012,Rabi       ,Garlic,36077,187386
+2267,2012,Rabi       ,Ginger,16718,132305
+2268,2012,Rabi       ,Gram,6544766,6707412
+2269,2012,Rabi       ,Groundnut,149865,302367
+2270,2012,Rabi       ,Horse-gram,160701,66503
+2271,2012,Rabi       ,Jowar,3667709,2393657
+2272,2012,Rabi       ,Khesari,478986,319236
+2273,2012,Rabi       ,Linseed,221912,113740
+2274,2012,Rabi       ,Maize,835989,3301665
+2275,2012,Rabi       ,Masoor,1290496,1018162
+2276,2012,Rabi       ,Mesta,104,897
+2277,2012,Rabi       ,Moong(Green Gram),150730,91062
+2278,2012,Rabi       ,Niger seed,8273,5813
+2279,2012,Rabi       ,Onion,41642,754193
+2280,2012,Rabi       ,Other  Rabi pulses,170828,82075
+2281,2012,Rabi       ,Other Cereals & Millets,34331,35732
+2282,2012,Rabi       ,Other Kharif pulses,13,16
+2283,2012,Rabi       ,Papaya,829,89897
+2284,2012,Rabi       ,Peas & beans (Pulses),611316,669234
+2285,2012,Rabi       ,Pineapple,14192,234373
+2286,2012,Rabi       ,Potato,964810,25264291
+2287,2012,Rabi       ,Ragi,41107,59274
+2288,2012,Rabi       ,Rapeseed &Mustard,3097849,4024764
+2289,2012,Rabi       ,Rice,765159,3058862
+2290,2012,Rabi       ,Safflower,154980,89773
+2291,2012,Rabi       ,Sesamum,23897,8039
+2292,2012,Rabi       ,Small millets,5417,5111
+2293,2012,Rabi       ,Soyabean,81,147
+2294,2012,Rabi       ,Sunflower,447977,263366
+2295,2012,Rabi       ,Sweet potato,6929,32230
+2296,2012,Rabi       ,Tapioca,7,120
+2297,2012,Rabi       ,Tobacco,227551,498328
+2298,2012,Rabi       ,Tomato,13999,248782
+2299,2012,Rabi       ,Turmeric,1816,5263
+2300,2012,Rabi       ,Urad,443449,362940
+2301,2012,Rabi       ,Wheat,26405397,88019885
+2302,2012,Rabi       ,other oilseeds,751,357
+2303,2012,Summer     ,Bajra,265012,698136
+2304,2012,Summer     ,Banana,2359,105337
+2305,2012,Summer     ,Brinjal,21,297
+2306,2012,Summer     ,Cotton(lint),1822,5026
+2307,2012,Summer     ,Cowpea(Lobia),6937,2498
+2308,2012,Summer     ,Dry chillies,5058,14296
+2309,2012,Summer     ,Groundnut,395100,567466
+2310,2012,Summer     ,Horse-gram,61,19.2
+2311,2012,Summer     ,Jowar,8362,13773
+2312,2012,Summer     ,Maize,321467,1447254.4
+2313,2012,Summer     ,Moong(Green Gram),388912,202498.2
+2314,2012,Summer     ,Onion,18131,209880
+2315,2012,Summer     ,Potato,3175,45248
+2316,2012,Summer     ,Ragi,5375,7970.1
+2317,2012,Summer     ,Rice,10685903,7382662
+2318,2012,Summer     ,Sesamum,200849,375621.9
+2319,2012,Summer     ,Small millets,53,74
+2320,2012,Summer     ,Sunflower,26799,25798
+2321,2012,Summer     ,Tobacco,438,1406
+2322,2012,Summer     ,Urad,54133,35939.1
+2323,2012,Summer     ,Wheat,1039,1974.4
+2324,2012,Whole Year ,Arecanut,339174,1917991
+2325,2012,Whole Year ,Arhar/Tur,1186,1892
+2326,2012,Whole Year ,Banana,155155,3936272
+2327,2012,Whole Year ,Black pepper,112494,123003
+2328,2012,Whole Year ,Blackgram,265,2142
+2329,2012,Whole Year ,Cardamom,60886,12514
+2330,2012,Whole Year ,Cashewnut,124537,105709
+2331,2012,Whole Year ,Coconut ,1360932,7494436866
+2332,2012,Whole Year ,Coriander,144203,86539
+2333,2012,Whole Year ,Cowpea(Lobia),1085,3927
+2334,2012,Whole Year ,Drum Stick,15465,14877
+2335,2012,Whole Year ,Dry chillies,88818,212511
+2336,2012,Whole Year ,Dry ginger,40348,624836
+2337,2012,Whole Year ,Garlic,90162,460700
+2338,2012,Whole Year ,Ginger,2373,24409
+2339,2012,Whole Year ,Groundnut,784,976
+2340,2012,Whole Year ,Guar seed,616315,426379
+2341,2012,Whole Year ,Horse-gram,105,1428
+2342,2012,Whole Year ,Jack Fruit,89702,4998
+2343,2012,Whole Year ,Jowar,148,116
+2344,2012,Whole Year ,Maize,18195,38747
+2345,2012,Whole Year ,Mango,74442,441033
+2346,2012,Whole Year ,Mesta,713,871
+2347,2012,Whole Year ,Moong(Green Gram),101,2856
+2348,2012,Whole Year ,Oilseeds total,32767,31285
+2349,2012,Whole Year ,Onion,90037,1546351
+2350,2012,Whole Year ,Papaya,16197,101207
+2351,2012,Whole Year ,Pineapple,8540,72857
+2352,2012,Whole Year ,Potato,284739,4184278
+2353,2012,Whole Year ,Pump Kin,1238,4998
+2354,2012,Whole Year ,Ragi,113,480
+2355,2012,Whole Year ,Sannhamp,1497,1198
+2356,2012,Whole Year ,Sesamum,289265,145604
+2357,2012,Whole Year ,Small millets,62,61
+2358,2012,Whole Year ,Soyabean,7,10
+2359,2012,Whole Year ,Sugarcane,2539001,184107090
+2360,2012,Whole Year ,Sunflower,48,38
+2361,2012,Whole Year ,Sweet potato,11219,101697
+2362,2012,Whole Year ,Tapioca,70478,2467939
+2363,2012,Whole Year ,Tobacco,129991,110145
+2364,2012,Whole Year ,Turmeric,44972,138614
+2365,2012,Whole Year ,Wheat,1,357
+2366,2012,Winter     ,Arhar/Tur,312,254
+2367,2012,Winter     ,Gram,173,173
+2368,2012,Winter     ,Groundnut,2487,3134.5
+2369,2012,Winter     ,Horse-gram,48249,17465.8
+2370,2012,Winter     ,Maize,366,517.8
+2371,2012,Winter     ,Moong(Green Gram),99426,27441.3
+2372,2012,Winter     ,Paddy,1857410,3655430
+2373,2012,Winter     ,Potato,5324,65015.3
+2374,2012,Winter     ,Ragi,39551,31335
+2375,2012,Winter     ,Rapeseed &Mustard,14631,4029.7
+2376,2012,Winter     ,Rice,11859964,29155605
+2377,2012,Winter     ,Sannhamp,100,73
+2378,2012,Winter     ,Sesamum,16774,4990.5
+2379,2012,Winter     ,Sugarcane,15192,1005326.9
+2380,2012,Winter     ,Urad,79881,27542.4
+2381,2012,Winter     ,Wheat,131,262
+2382,2013,Autumn     ,Groundnut,26064,28155.9
+2383,2013,Autumn     ,Jute,1971,3566.5
+2384,2013,Autumn     ,Maize,411539,1148387.9
+2385,2013,Autumn     ,Moong(Green Gram),24135,7728.5
+2386,2013,Autumn     ,Paddy,223332,294440
+2387,2013,Autumn     ,Ragi,15768,11547.7
+2388,2013,Autumn     ,Rice,1639263,2627728
+2389,2013,Autumn     ,Sesamum,3802,1341.6
+2390,2013,Autumn     ,Small millets,986,657
+2391,2013,Autumn     ,Urad,27587,8298
+2392,2013,Kharif     ,Arecanut,476,255
+2393,2013,Kharif     ,Arhar/Tur,3225858,2694597
+2394,2013,Kharif     ,Bajra,2238201,3544370
+2395,2013,Kharif     ,Banana,8785,141005
+2396,2013,Kharif     ,Barley,83559,146897
+2397,2013,Kharif     ,Bean,2320,3080
+2398,2013,Kharif     ,Brinjal,7810,80562
+2399,2013,Kharif     ,Cabbage,730,12127
+2400,2013,Kharif     ,Cashewnut,124394,40583
+2401,2013,Kharif     ,Castor seed,148560,95317
+2402,2013,Kharif     ,Colocosia,5240,49840
+2403,2013,Kharif     ,Coriander,517,333
+2404,2013,Kharif     ,Cotton(lint),8278822,20074226
+2405,2013,Kharif     ,Cowpea(Lobia),70066,27315
+2406,2013,Kharif     ,Dry chillies,256760,788635
+2407,2013,Kharif     ,Dry ginger,10923,68788
+2408,2013,Kharif     ,Ginger,5267,44623
+2409,2013,Kharif     ,Grapes,276,6170
+2410,2013,Kharif     ,Groundnut,2398192,2397590
+2411,2013,Kharif     ,Guar seed,39507,32381
+2412,2013,Kharif     ,Horse-gram,162662,84285
+2413,2013,Kharif     ,Jobster,1170,1180
+2414,2013,Kharif     ,Jowar,1677121,2042014
+2415,2013,Kharif     ,Jute,752557,11066245
+2416,2013,Kharif     ,Lemon,24724,190739
+2417,2013,Kharif     ,Linseed,473,228
+2418,2013,Kharif     ,Maize,4882004,14801860
+2419,2013,Kharif     ,Mango,255793,2022076
+2420,2013,Kharif     ,Mesta,46771,508663
+2421,2013,Kharif     ,Moong(Green Gram),1077185,469520
+2422,2013,Kharif     ,Moth,27,368
+2423,2013,Kharif     ,Niger seed,197730,61951
+2424,2013,Kharif     ,Onion,146771,1321180
+2425,2013,Kharif     ,Orange,15669,188781
+2426,2013,Kharif     ,Other Kharif pulses,208951,116242
+2427,2013,Kharif     ,Paddy,3671,18134
+2428,2013,Kharif     ,Papaya,12763,604168
+2429,2013,Kharif     ,Perilla,2350,1410
+2430,2013,Kharif     ,Pome Granet,1629,26306
+2431,2013,Kharif     ,Potato,44739,359969
+2432,2013,Kharif     ,Ragi,1015135,1788864.78
+2433,2013,Kharif     ,Rajmash Kholar,5630,7090
+2434,2013,Kharif     ,Rapeseed &Mustard,2700,1483
+2435,2013,Kharif     ,Rice,22751089,59576695
+2436,2013,Kharif     ,Ricebean (nagadal),4710,5230
+2437,2013,Kharif     ,Sannhamp,8759,13966
+2438,2013,Kharif     ,Sapota,9168,85585
+2439,2013,Kharif     ,Sesamum,488213,129898
+2440,2013,Kharif     ,Small millets,492885,325026
+2441,2013,Kharif     ,Soyabean,10458721,9438268
+2442,2013,Kharif     ,Sugarcane,2466357,159863680
+2443,2013,Kharif     ,Sunflower,251989,161902
+2444,2013,Kharif     ,Sweet potato,22311,243680
+2445,2013,Kharif     ,Tapioca,21260,301577
+2446,2013,Kharif     ,Tobacco,4789,13327
+2447,2013,Kharif     ,Tomato,20318,553358
+2448,2013,Kharif     ,Turmeric,67460,403967
+2449,2013,Kharif     ,Urad,1821082,883240
+2450,2013,Kharif     ,other oilseeds,110254,1309545
+2451,2013,Rabi       ,Arecanut,68038,56999
+2452,2013,Rabi       ,Arhar/Tur,2781,3127
+2453,2013,Rabi       ,Bajra,35324,60914
+2454,2013,Rabi       ,Barley,217921,553455.3
+2455,2013,Rabi       ,Black pepper,3520,6083
+2456,2013,Rabi       ,Blackgram,760,610
+2457,2013,Rabi       ,Brinjal,6589,72110
+2458,2013,Rabi       ,Cabbage,776,12579
+2459,2013,Rabi       ,Castor seed,2694,1936
+2460,2013,Rabi       ,Coriander,14683,8378
+2461,2013,Rabi       ,Cotton(lint),114601,233310
+2462,2013,Rabi       ,Cowpea(Lobia),27884,20496
+2463,2013,Rabi       ,Dry chillies,68538,217331
+2464,2013,Rabi       ,Garlic,37932,218984.1
+2465,2013,Rabi       ,Ginger,15686,122309.7
+2466,2013,Rabi       ,Gram,6802982,5676736.4
+2467,2013,Rabi       ,Groundnut,418720,997739
+2468,2013,Rabi       ,Horse-gram,201230,112177
+2469,2013,Rabi       ,Jowar,3995098,3500817
+2470,2013,Rabi       ,Khesari,455938,308818
+2471,2013,Rabi       ,Lentil,2070,1680
+2472,2013,Rabi       ,Linseed,192900,96959.9
+2473,2013,Rabi       ,Maize,1201415,5938899
+2474,2013,Rabi       ,Masoor,1209548,926025
+2475,2013,Rabi       ,Mesta,52,472
+2476,2013,Rabi       ,Moong(Green Gram),447745,284240.4
+2477,2013,Rabi       ,Moth,15,13
+2478,2013,Rabi       ,Niger seed,8789,4483
+2479,2013,Rabi       ,Onion,64694,1003935.4
+2480,2013,Rabi       ,Other  Rabi pulses,148628,79725.8
+2481,2013,Rabi       ,Other Kharif pulses,9765,12685
+2482,2013,Rabi       ,Peas & beans (Pulses),673783,638917.3
+2483,2013,Rabi       ,Pineapple,16536,288596
+2484,2013,Rabi       ,Potato,1013298,21439679.3
+2485,2013,Rabi       ,Ragi,70606,176375
+2486,2013,Rabi       ,Rajmash Kholar,9210,11500
+2487,2013,Rabi       ,Rapeseed &Mustard,2377594,2257314.8
+2488,2013,Rabi       ,Rice,1773891,6634051
+2489,2013,Rabi       ,Safflower,172319,119967
+2490,2013,Rabi       ,Sesamum,53076,17329
+2491,2013,Rabi       ,Small millets,4242,4188
+2492,2013,Rabi       ,Soyabean,80,129
+2493,2013,Rabi       ,Sunflower,369093,257823
+2494,2013,Rabi       ,Sweet potato,6663,36572
+2495,2013,Rabi       ,Tapioca,17,424
+2496,2013,Rabi       ,Tobacco,169503,417278
+2497,2013,Rabi       ,Tomato,17123,336027
+2498,2013,Rabi       ,Turmeric,1844,5525.7
+2499,2013,Rabi       ,Urad,639925,507618
+2500,2013,Rabi       ,Wheat,23978442,75097875
+2501,2013,Rabi       ,other oilseeds,494,232
+2502,2013,Summer     ,Banana,2636,114776
+2503,2013,Summer     ,Brinjal,26,552
+2504,2013,Summer     ,Cotton(lint),2089,7339
+2505,2013,Summer     ,Cowpea(Lobia),8000,3145
+2506,2013,Summer     ,Dry chillies,6613,17587
+2507,2013,Summer     ,Groundnut,351219,470861
+2508,2013,Summer     ,Horse-gram,62,20.8
+2509,2013,Summer     ,Jowar,4462,7262
+2510,2013,Summer     ,Maize,362745,1419113.3
+2511,2013,Summer     ,Moong(Green Gram),346200,196749.7
+2512,2013,Summer     ,Onion,18202,211797
+2513,2013,Summer     ,Other  Rabi pulses,1,1
+2514,2013,Summer     ,Paddy,402901,1209291
+2515,2013,Summer     ,Potato,3028,37528
+2516,2013,Summer     ,Ragi,7562,14593.1
+2517,2013,Summer     ,Rice,2469879,8014631
+2518,2013,Summer     ,Sesamum,215939,197545.6
+2519,2013,Summer     ,Small millets,53,74
+2520,2013,Summer     ,Sunflower,26000,27315
+2521,2013,Summer     ,Tobacco,1088,3344
+2522,2013,Summer     ,Urad,48642,27609.1
+2523,2013,Summer     ,Wheat,678,1067.6
+2524,2013,Whole Year ,Arecanut,343128,2564981
+2525,2013,Whole Year ,Arhar/Tur,60531,59095
+2526,2013,Whole Year ,Bajra,176,125
+2527,2013,Whole Year ,Banana,288181,8697774
+2528,2013,Whole Year ,Black pepper,117645,101357
+2529,2013,Whole Year ,Blackgram,374,2856
+2530,2013,Whole Year ,Cardamom,62446,16953
+2531,2013,Whole Year ,Cashewnut,390350,197663
+2532,2013,Whole Year ,Castor seed,128716,82263
+2533,2013,Whole Year ,Coconut ,1815921,12219189405
+2534,2013,Whole Year ,Coriander,166839,105843
+2535,2013,Whole Year ,Cotton(lint),49,70
+2536,2013,Whole Year ,Cowpea(Lobia),775,3927
+2537,2013,Whole Year ,Drum Stick,16356,15757
+2538,2013,Whole Year ,Dry chillies,124372,158215
+2539,2013,Whole Year ,Dry ginger,45259,639473
+2540,2013,Whole Year ,Garlic,89410,439240
+2541,2013,Whole Year ,Ginger,2015,18654
+2542,2013,Whole Year ,Gram,8908,5823
+2543,2013,Whole Year ,Groundnut,710,868
+2544,2013,Whole Year ,Horse-gram,69,1071
+2545,2013,Whole Year ,Jowar,5303,3439
+2546,2013,Whole Year ,Linseed,473,228
+2547,2013,Whole Year ,Maize,18076,39726
+2548,2013,Whole Year ,Mango,81977,466011
+2549,2013,Whole Year ,Mesta,349,466
+2550,2013,Whole Year ,Moong(Green Gram),121,3213
+2551,2013,Whole Year ,Oilseeds total,33114,31635
+2552,2013,Whole Year ,Onion,94903,1559735
+2553,2013,Whole Year ,Other Fresh Fruits,3839,41039
+2554,2013,Whole Year ,Other Vegetables,7004,79920
+2555,2013,Whole Year ,Pineapple,295,4900
+2556,2013,Whole Year ,Potato,208022,2057190
+2557,2013,Whole Year ,Pump Kin,1219,4998
+2558,2013,Whole Year ,Ragi,82,85
+2559,2013,Whole Year ,Safflower,8082,5693
+2560,2013,Whole Year ,Sannhamp,5075,1870
+2561,2013,Whole Year ,Sesamum,269862,117268
+2562,2013,Whole Year ,Small millets,32444,35563
+2563,2013,Whole Year ,Soyabean,242458,390337
+2564,2013,Whole Year ,Sugarcane,2240485.29,186061743
+2565,2013,Whole Year ,Sunflower,76,392
+2566,2013,Whole Year ,Sweet potato,13361,122737
+2567,2013,Whole Year ,Tapioca,151887,4979101
+2568,2013,Whole Year ,Tobacco,138834,142769
+2569,2013,Whole Year ,Turmeric,70399,225062
+2570,2013,Whole Year ,Wheat,348,249
+2571,2013,Winter     ,Groundnut,1669,2310.9
+2572,2013,Winter     ,Horse-gram,42038,15029.4
+2573,2013,Winter     ,Maize,313,454.8
+2574,2013,Winter     ,Moong(Green Gram),90618,24421
+2575,2013,Winter     ,Paddy,1880737,3709081
+2576,2013,Winter     ,Potato,6151,71340.7
+2577,2013,Winter     ,Ragi,40637,34101.3
+2578,2013,Winter     ,Rapeseed &Mustard,13442,3619.9
+2579,2013,Winter     ,Rice,11851844,26020021
+2580,2013,Winter     ,Sesamum,17208,4580.5
+2581,2013,Winter     ,Sugarcane,14213,936512.2
+2582,2013,Winter     ,Urad,54210,16694
+2583,2013,Winter     ,Wheat,131,262
+2584,2014,Autumn     ,Groundnut,22527,23041.7
+2585,2014,Autumn     ,Jowar,25,8
+2586,2014,Autumn     ,Jute,1057,1717.4
+2587,2014,Autumn     ,Maize,412049,1129231.2
+2588,2014,Autumn     ,Moong(Green Gram),22009,4905.1
+2589,2014,Autumn     ,Paddy,196188,280693
+2590,2014,Autumn     ,Ragi,25374,21899.4
+2591,2014,Autumn     ,Rice,1685228,3156593
+2592,2014,Autumn     ,Sesamum,4796,1665.8
+2593,2014,Autumn     ,Small millets,1020,700
+2594,2014,Autumn     ,Urad,22843,5977.9
+2595,2014,Kharif     ,Arhar/Tur,2710567,1286981
+2596,2014,Kharif     ,Bajra,2097636,2643034.8
+2597,2014,Kharif     ,Banana,9029,166495
+2598,2014,Kharif     ,Barley,557,549.5
+2599,2014,Kharif     ,Bean,2330,3160
+2600,2014,Kharif     ,Blackgram,790,640
+2601,2014,Kharif     ,Brinjal,8032,112638
+2602,2014,Kharif     ,Cabbage,648,7192
+2603,2014,Kharif     ,Cashewnut,118186,42168
+2604,2014,Kharif     ,Castor seed,126547,70098
+2605,2014,Kharif     ,Coconut ,439,9264
+2606,2014,Kharif     ,Coriander,164,85
+2607,2014,Kharif     ,Cotton(lint),7912317,13457296
+2608,2014,Kharif     ,Cowpea(Lobia),61568,28241
+2609,2014,Kharif     ,Dry chillies,260514,898723.3
+2610,2014,Kharif     ,Dry ginger,11133,69055.9
+2611,2014,Kharif     ,Ginger,8831,78688
+2612,2014,Kharif     ,Grapes,347,7956
+2613,2014,Kharif     ,Groundnut,1683936,1108848
+2614,2014,Kharif     ,Guar seed,30250,22877
+2615,2014,Kharif     ,Horse-gram,133435,64352
+2616,2014,Kharif     ,Jowar,1041753,1011185
+2617,2014,Kharif     ,Jute,742838,11073567
+2618,2014,Kharif     ,Lemon,26981,173034
+2619,2014,Kharif     ,Linseed,361,174
+2620,2014,Kharif     ,Maize,4031644,9637469
+2621,2014,Kharif     ,Mango,259729,1964114
+2622,2014,Kharif     ,Masoor,16,8.1
+2623,2014,Kharif     ,Mesta,44761,440506
+2624,2014,Kharif     ,Moong(Green Gram),751266,239347.5
+2625,2014,Kharif     ,Moth,53,30
+2626,2014,Kharif     ,Niger seed,102139,27276
+2627,2014,Kharif     ,Oilseeds total,32150,35950
+2628,2014,Kharif     ,Onion,200445,1477333
+2629,2014,Kharif     ,Orange,15761,202378
+2630,2014,Kharif     ,Other Cereals & Millets,1728,800.1
+2631,2014,Kharif     ,Other Kharif pulses,180835,115279.6
+2632,2014,Kharif     ,Papaya,11604,478409
+2633,2014,Kharif     ,Peas & beans (Pulses),48,21.7
+2634,2014,Kharif     ,Pome Granet,1948,20185
+2635,2014,Kharif     ,Potato,44271,312194.6
+2636,2014,Kharif     ,Pulses total,45470,37635
+2637,2014,Kharif     ,Ragi,932593.5,1541755.8
+2638,2014,Kharif     ,Rapeseed &Mustard,2055,838.5
+2639,2014,Kharif     ,Rice,18990657,48597368
+2640,2014,Kharif     ,Safflower,85,37
+2641,2014,Kharif     ,Sannhamp,5451,6372.1
+2642,2014,Kharif     ,Sapota,8785,73497
+2643,2014,Kharif     ,Sesamum,506767,139910.6
+2644,2014,Kharif     ,Small millets,269470,181111
+2645,2014,Kharif     ,Soyabean,4339246,2415276
+2646,2014,Kharif     ,Sugarcane,2513939,166539979.5
+2647,2014,Kharif     ,Sunflower,209358,114878
+2648,2014,Kharif     ,Sweet potato,22933,238078
+2649,2014,Kharif     ,Tapioca,11008,111283
+2650,2014,Kharif     ,Tobacco,4766,11731.4
+2651,2014,Kharif     ,Tomato,21229,468396
+2652,2014,Kharif     ,Total foodgrain,480744,873219
+2653,2014,Kharif     ,Turmeric,60011,359456.4
+2654,2014,Kharif     ,Urad,843725,445232.1
+2655,2014,Kharif     ,other oilseeds,64601,1399904
+2656,2014,Rabi       ,Arhar/Tur,3613,4166
+2657,2014,Rabi       ,Bajra,12666,15245
+2658,2014,Rabi       ,Barley,219863,372072
+2659,2014,Rabi       ,Black pepper,3528,5898
+2660,2014,Rabi       ,Brinjal,6733,99728
+2661,2014,Rabi       ,Cabbage,877,10811
+2662,2014,Rabi       ,Castor seed,2763,2142
+2663,2014,Rabi       ,Coriander,46877,24386
+2664,2014,Rabi       ,Cotton(lint),71509,119947
+2665,2014,Rabi       ,Cowpea(Lobia),29371,25025
+2666,2014,Rabi       ,Dry chillies,70881,230066
+2667,2014,Rabi       ,Dry ginger,36,103
+2668,2014,Rabi       ,Garlic,33861,196134
+2669,2014,Rabi       ,Ginger,16525,142093
+2670,2014,Rabi       ,Gram,3727871,2836515
+2671,2014,Rabi       ,Groundnut,232413,473625
+2672,2014,Rabi       ,Horse-gram,152590,73523
+2673,2014,Rabi       ,Jowar,3675994,2856211
+2674,2014,Rabi       ,Khesari,431876,399336
+2675,2014,Rabi       ,Lentil,12527,9082
+2676,2014,Rabi       ,Linseed,114196,58496
+2677,2014,Rabi       ,Maize,1034371,4735926
+2678,2014,Rabi       ,Masoor,724152,482322
+2679,2014,Rabi       ,Mesta,52,355
+2680,2014,Rabi       ,Moong(Green Gram),205923,155891
+2681,2014,Rabi       ,Niger seed,7378,2376
+2682,2014,Rabi       ,Oilseeds total,35150,33550
+2683,2014,Rabi       ,Onion,36150,558322
+2684,2014,Rabi       ,Other  Rabi pulses,144381,76521
+2685,2014,Rabi       ,Other Cereals & Millets,603,530
+2686,2014,Rabi       ,Other Kharif pulses,2,3
+2687,2014,Rabi       ,Papaya,861,91517
+2688,2014,Rabi       ,Peas & beans (Pulses),529591,425921
+2689,2014,Rabi       ,Pineapple,16007,281271
+2690,2014,Rabi       ,Potato,1019862,27223639
+2691,2014,Rabi       ,Pulses total,20864,16855
+2692,2014,Rabi       ,Ragi,38665,62034
+2693,2014,Rabi       ,Rapeseed &Mustard,1586514,1371785
+2694,2014,Rabi       ,Rice,1329765,5243805
+2695,2014,Rabi       ,Safflower,113579,57988
+2696,2014,Rabi       ,Sesamum,82732,31829
+2697,2014,Rabi       ,Small millets,5289,5245
+2698,2014,Rabi       ,Soyabean,312,815
+2699,2014,Rabi       ,Sunflower,302521,204063
+2700,2014,Rabi       ,Sweet potato,6985,41053
+2701,2014,Rabi       ,Tapioca,17,432
+2702,2014,Rabi       ,Tobacco,172467,492113
+2703,2014,Rabi       ,Tomato,16962,362468
+2704,2014,Rabi       ,Total foodgrain,382132,700620
+2705,2014,Rabi       ,Turmeric,1565,4447
+2706,2014,Rabi       ,Urad,378402,329635
+2707,2014,Rabi       ,Wheat,17590149,42048018
+2708,2014,Rabi       ,other oilseeds,420,198
+2709,2014,Summer     ,Banana,2441,110118
+2710,2014,Summer     ,Brinjal,23,489
+2711,2014,Summer     ,Cotton(lint),2277,4315
+2712,2014,Summer     ,Cowpea(Lobia),7241,3360
+2713,2014,Summer     ,Dry chillies,5822,11230
+2714,2014,Summer     ,Groundnut,335189,439036.9
+2715,2014,Summer     ,Horse-gram,118,38.8
+2716,2014,Summer     ,Jowar,3534,7469
+2717,2014,Summer     ,Maize,357179,1238011.3
+2718,2014,Summer     ,Moong(Green Gram),412309,214732.3
+2719,2014,Summer     ,Onion,17041,198605
+2720,2014,Summer     ,Paddy,416353,1224046
+2721,2014,Summer     ,Potato,15442,176373
+2722,2014,Summer     ,Pulses total,97,55
+2723,2014,Summer     ,Ragi,7676,13433.3
+2724,2014,Summer     ,Rice,2502386,7997347
+2725,2014,Summer     ,Sesamum,226619,208372.3
+2726,2014,Summer     ,Small millets,46,43
+2727,2014,Summer     ,Sunflower,20893,20987
+2728,2014,Summer     ,Tobacco,409,1072
+2729,2014,Summer     ,Total foodgrain,12505,39126
+2730,2014,Summer     ,Urad,47112,24955
+2731,2014,Summer     ,Wheat,403,656.1
+2732,2014,Whole Year ,Arecanut,350957,2335987
+2733,2014,Whole Year ,Arhar/Tur,1476,1903
+2734,2014,Whole Year ,Banana,116660,1477965
+2735,2014,Whole Year ,Black pepper,119840,233505
+2736,2014,Whole Year ,Blackgram,403,1785
+2737,2014,Whole Year ,Cardamom,57984,17786
+2738,2014,Whole Year ,Cashewnut,175514,120555
+2739,2014,Whole Year ,Coconut ,1360846,8067804070
+2740,2014,Whole Year ,Coriander,8176,3216
+2741,2014,Whole Year ,Cotton(lint),59,75
+2742,2014,Whole Year ,Cowpea(Lobia),1004,4284
+2743,2014,Whole Year ,Drum Stick,494,334
+2744,2014,Whole Year ,Dry chillies,11783,13046
+2745,2014,Whole Year ,Dry ginger,45344,979531
+2746,2014,Whole Year ,Garlic,7155,10574
+2747,2014,Whole Year ,Ginger,1635,18446
+2748,2014,Whole Year ,Groundnut,480,692
+2749,2014,Whole Year ,Horse-gram,111,1071
+2750,2014,Whole Year ,Jowar,5173,4358
+2751,2014,Whole Year ,Linseed,45,18
+2752,2014,Whole Year ,Maize,18104,41190
+2753,2014,Whole Year ,Mango,8966,29594
+2754,2014,Whole Year ,Mesta,261,293
+2755,2014,Whole Year ,Moong(Green Gram),163,2856
+2756,2014,Whole Year ,Oilseeds total,35000,33950
+2757,2014,Whole Year ,Onion,15977,90823
+2758,2014,Whole Year ,Other Fresh Fruits,4566,48604
+2759,2014,Whole Year ,Other Vegetables,7188,82001
+2760,2014,Whole Year ,Papaya,960,7925
+2761,2014,Whole Year ,Pineapple,439,6766
+2762,2014,Whole Year ,Potato,110463,841579
+2763,2014,Whole Year ,Pulses total,66431,54545
+2764,2014,Whole Year ,Pump Kin,1373,4998
+2765,2014,Whole Year ,Ragi,79,78
+2766,2014,Whole Year ,Rice,2654047,9056444
+2767,2014,Whole Year ,Sannhamp,311,76
+2768,2014,Whole Year ,Sesamum,262,89.41
+2769,2014,Whole Year ,Small millets,27,21
+2770,2014,Whole Year ,Soyabean,1,1.4
+2771,2014,Whole Year ,Sugarcane,1923160.06,161337855
+2772,2014,Whole Year ,Sunflower,40,43
+2773,2014,Whole Year ,Sweet potato,6299,76870
+2774,2014,Whole Year ,Tapioca,76223,2950476
+2775,2014,Whole Year ,Tobacco,119196,110104
+2776,2014,Whole Year ,Total foodgrain,875381,1612965
+2777,2014,Whole Year ,Turmeric,37562,122035
+2778,2014,Whole Year ,Wheat,1,3
+2779,2014,Winter     ,Groundnut,1916,1935.7
+2780,2014,Winter     ,Horse-gram,38245,13174.5
+2781,2014,Winter     ,Maize,215,335.6
+2782,2014,Winter     ,Moong(Green Gram),97798,29845.9
+2783,2014,Winter     ,Paddy,1882756,3717906
+2784,2014,Winter     ,Potato,14483,147037.1
+2785,2014,Winter     ,Ragi,35945,26949.7
+2786,2014,Winter     ,Rapeseed &Mustard,10119,2470.2
+2787,2014,Winter     ,Rice,11925990,29966996
+2788,2014,Winter     ,Sesamum,19044,5351.2
+2789,2014,Winter     ,Sugarcane,10047,722890.6
+2790,2014,Winter     ,Urad,56121,20452.8
+2791,2014,Winter     ,Wheat,139,289
+2792,2015,Autumn     ,Groundnut,16983,13593.5
+2793,2015,Autumn     ,Jute,1204,2616.9
+2794,2015,Autumn     ,Maize,52843,103996.6
+2795,2015,Autumn     ,Moong(Green Gram),19391,4715.3
+2796,2015,Autumn     ,Ragi,14230,8780
+2797,2015,Autumn     ,Rice,541000,390357
+2798,2015,Autumn     ,Sesamum,2959,623.5
+2799,2015,Autumn     ,Urad,20281,5004.4
+2800,2015,Kharif     ,Maize,38955,68310
+2801,2015,Kharif     ,Other Kharif pulses,2766,2698
+2802,2015,Kharif     ,Rice,10669,19687
+2803,2015,Kharif     ,Small millets,2853,2911
+2804,2015,Kharif     ,Soyabean,3278,3190
+2805,2015,Kharif     ,Urad,2904,2682
+2806,2015,Rabi       ,Barley,447,472
+2807,2015,Rabi       ,Rapeseed &Mustard,3658,3120
+2808,2015,Rabi       ,Wheat,323,346
+2809,2015,Summer     ,Groundnut,32819,40756.7
+2810,2015,Summer     ,Horse-gram,156,26.5
+2811,2015,Summer     ,Maize,2489,6520.9
+2812,2015,Summer     ,Moong(Green Gram),200039,65013.8
+2813,2015,Summer     ,Ragi,297,264.9
+2814,2015,Summer     ,Rice,234000,782000
+2815,2015,Summer     ,Sesamum,4633,1217.7
+2816,2015,Summer     ,Urad,7564,3171.4
+2817,2015,Summer     ,Wheat,367,494.4
+2818,2015,Winter     ,Groundnut,1404,1811
+2819,2015,Winter     ,Horse-gram,33206,9416.2
+2820,2015,Winter     ,Maize,255,459.4
+2821,2015,Winter     ,Moong(Green Gram),70356,15493.4
+2822,2015,Winter     ,Potato,5626,57233.6
+2823,2015,Winter     ,Ragi,31166,19281.1
+2824,2015,Winter     ,Rapeseed &Mustard,7308,1496.6
+2825,2015,Winter     ,Rice,3167000,4702000
+2826,2015,Winter     ,Sesamum,12434,2298.4
+2827,2015,Winter     ,Sugarcane,8962,577157.2
+2828,2015,Winter     ,Urad,46473,16205.3
